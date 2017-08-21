@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about Petr Lorenc!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am student of master program at Faculty of Information Technologies at CTU in Prague. My hobbies include gym, running, travelling and tasting new food.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[petr.lorenc.ml@gmail.com](mailto:petr.lorenc.ml@gmail.com)
