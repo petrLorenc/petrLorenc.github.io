@@ -57,6 +57,9 @@ baseurl: ""
 
 permalink: /:title/
 
+encoding: utf-8
+markdown: kramdown
+
 # The release of Jekyll Now that you're using
 version: v1.2.0
 
