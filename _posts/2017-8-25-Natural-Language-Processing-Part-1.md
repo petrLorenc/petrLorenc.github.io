@@ -3,17 +3,17 @@ layout: post
 title: Natural Language Processing Part 1 
 ---
 
-My current research is about NLP with Czech text - I would like to use this interesting topic to be my diploma thesis, so I also decided to create this series to make accesible this interesting topic to everyone. In this series of post I would like to show some pitfalls which I have to encounter with. I will try to make as general as possible (it means that I won't be focused on Czech text but on text in general).
+My current research is about NLP with Czech text - I would like to use this interesting topic to be my diploma thesis, so I also decided to create this series to make accessible this interesting topic to everyone. In this series of post I would like to show some pitfalls which I have to encounter with. I will try to make as general as possible (it means that I won't be focused on Czech text but on text in general).
 
-Firstly we need to mention what kind of problems are typically solve in NLP. The basic and most general is the machine translation, it is almost the Holy Grail to create Babel fish. But there also other no-less important fields. I would like to mention chat-bots, email clustering, spam detection and many more.
+Firstly, we need to mention what kind of problems are typically solved in NLP. The basic and most general is the machine translation, it is almost the Holy Grail to create Babel fish. But there also other no-less important fields. I would like to mention chat-bots, email clustering, spam detection and much more.
 
-But almost all research in text have something in common - preprocessing and text representation. 
+But almost all research in the text has something in common - preprocessing and text representation. 
 
-For preprocessing we usually talks about stop-word removal (words that has no importance - sometimes is hard to define what is important and what is not), <a href="https://en.wikipedia.org/wiki/Stemming">stemming</a> (remove prefix and suffix) and <a href="https://en.wikipedia.org/wiki/Lemmatisation">lemmatization</a> (transfer word to his base form).
+For preprocessing we usually talk about stop-word removal (words that has no importance - sometimes is hard to define what is important and what is not), <a href="https://en.wikipedia.org/wiki/Stemming">stemming</a> (remove prefix and suffix) and <a href="https://en.wikipedia.org/wiki/Lemmatisation">lemmatization</a> (transfer the word to his base form).
 
-For the text representation is often used <a href="https://en.wikipedia.org/wiki/Bag-of-words_model">BOW</a> (Bag Of Words), which has several drawbacks - there is very sparsity of data and there are no semantic in the text representation - we can have words with similar meaning but in BOW model they would be as far as every other word. This problem is partially solved by <a href="https://en.wikipedia.org/wiki/Word_embedding">word embeddings</a>. There will be separate post about them (they have very interesting process of constructing them and they preserve semantic).
+For the text representation is often used <a href="https://en.wikipedia.org/wiki/Bag-of-words_model">BOW</a> (Bag Of Words), which has several drawbacks - there is very sparsity of data and there are no semantic in the text representation - we can have words with similar meaning but in BOW model they would be as far as every other word. This problem is partially solved by the <a href="https://en.wikipedia.org/wiki/Word_embedding">word embedding</a>. There will be a separate post about them (they have a very interesting process of constructing them and they preserve semantic).
 
-Lastly I would like to mention <a href="https://en.wikipedia.org/wiki/N-gram">n-grams</a> (it depends on the order of words - in opposite of co-occurence, where we focus only on the occurence of words), which can used to create very basic and easy text generator.
+Lastly, I would like to mention <a href="https://en.wikipedia.org/wiki/N-gram">n-grams</a> (it depends on the order of words - in opposite of co-occurrence, where we focus only on the occurrence of words), which can used to create very basic and easy text generator.
 
 {% highlight python %}
 
