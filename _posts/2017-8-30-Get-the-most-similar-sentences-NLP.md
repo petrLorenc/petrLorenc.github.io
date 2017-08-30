@@ -3,21 +3,27 @@ layout: post
 title: NLP - Get the most semantically similar texts
 ---
 
-There are two types of data - with and without labels. In this post I will focus on the unlabeled text, which should simulate <a href="http://www.cs.cornell.edu/~cristian//Cornell_Movie-Dialogs_Corpus.html">human dialog</a> or <a href="https://www.cs.cmu.edu/~./enron/">a email communication</a>. There are a lot of stuff you can do with these texts, one of them is <a href="https://en.wikipedia.org/wiki/Cluster_analysis">clustering</a>.
+There are two types of data - with and without labels. In this post I will focus on the unlabeled text, which should simulate <a href="http://www.cs.cornell.edu/~cristian//Cornell_Movie-Dialogs_Corpus.html">human dialog</a> or <a href="https://www.cs.cmu.edu/~./enron/">an email communication</a>. There is a lot of stuff you can do with these texts, one of them is <a href="https://en.wikipedia.org/wiki/Cluster_analysis">clustering</a>.
 
-You can use already implemented algorithms like <a href="http://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html">KMeans</a>, but you will struggle with text representation, because in the human genereted text is a lot of misplelling and abbreavations. This makes tf-idf very sparse and uneffective to catch similarties in the text. For example, "cat" and "kitten" would be as far as "cat" and "house". Because tf-idf does not catch the semantic.
+You can use already implemented algorithms like <a href="http://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html">KMeans</a>, but you will struggle with textual representation, because in the human generated text is a lot of missplelling and abbreviations. This makes TF-IDF very sparse and ineffective to catch similarities in the text. For example, "cat" and "kitten" would be as far as "cat" and "house". Because TF-IDF does not catch the semantic.
 
-To solve this we can use <a href="https://en.wikipedia.org/wiki/Word2vec">the work</a> of Tomas Mikolov. He created neural network model which can "catch" the semantic of text into low-dimension space (usually 300 dim). I want to talk about it in future post. We will use FastText because it is character-based. We will base our aproach on this <a href="https://arxiv.org/pdf/1607.00570">paper</a>. So we use coordinate-wise mean, because it is simple to implement and provide not bad results.
+To solve this we can use <a href="https://en.wikipedia.org/wiki/Word2vec">the work</a> of Tomas Mikolov. He created a neural network model which can "catch" the semantics of text into low-dimensional space (usually 300 dim). I want to talk about it in a future post. We will use FastText because it is character-based. We will base our approach on this <a href="https://arxiv.org/pdf/1607.00570">paper</a>. So we use coordinate-wise mean, because it is simple to implement and provide not bad results.
 
-My data looks like this:
+My data (taken from the Enron dataset) looks like this:
 
 {% highlight python %}
 
-msg_raw || from || to || msg_init || msg_reply || subject || cluster (set to -1 at initializion)
+msg_raw 
+from 
+to 
+msg_init 
+msg_reply 
+subject 
+cluster (set to -1 at initializion)
 
 {% endhighlight %}
 
-Here is a part where I will take care of embeddings. I have already impleted version where I can use tf-idf weight to adjust embeddings:
+Here is a part where I will take care of embedding. I have already implemented version where I can use TF-IDF weight to adjust embedding:
 
 {% highlight python %}
 
@@ -42,7 +48,7 @@ def get_embedding_for_doc(document_order, embedding_model, dim, tfidf_matrix, no
 
 {% endhighlight %}
 
-To get scored for ith document. We have to know index of the document:
+To get scored for ith document. We have to know the index of the document:
 
 {% highlight python %}
 
