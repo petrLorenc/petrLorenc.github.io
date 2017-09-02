@@ -18,6 +18,9 @@ We need to distinguish:
  * between several views of loading data
     * Model-based (HMP, LDA, Bayesian network)
     * Memory-based
+ * between several way to make prediction
+    * passive
+    * active
 
 ### Explicit data
 
@@ -29,7 +32,13 @@ The user usually has no idea about it. Browse pages, see a film. There is a prob
 
 ### Content-bases filtering
 
+<img src="{{ site.baseurl }}/images/Recommendation_system/Content-based.png" />
+
 This method is very crucial preprocessing. We need to label our data - for example: this film is about nature and this about startups. We can develop machine learning models to do it instead of human, but it requires time and additional work. Then we recommend items with similar (several metrics) content. 
+
+### Collaborative-based filtering
+
+<img src="{{ site.baseurl }}/images/Recommendation_system/Collaborative.png" />
 
 ### User-based filtering
 
@@ -37,9 +46,11 @@ We exploit information from other users. We find similar users based on their pr
 
 ### Item-based filtering
 
-We exploit information from other users. We find similar items according user's ratings and recommend what is most similar to current item.
+We exploit information from other users. We find similar items according user's ratings and recommend what is most similar to current item and yet not rated by current user.
 
 ### Knowledge-based filtering
+
+<img src="{{ site.baseurl }}/images/Recommendation_system/Knowledge-based.png" />
 
 The additional information will be taken from demographics/religious/gender/age/family-size knowledge. Or user have to specify requirements
 
@@ -54,9 +65,21 @@ Involve building a model - the model extracts some features from our dataset and
 
 Classical way, where we need to iterate through a complete dataset to find similar user/items. (see. User-based and Item-based)
 
+### Passive filtering
+
+Use raw user's ratings without history to make recommendation. This approach will show the same recommendation for every user. 
+
+### Active filtering
+
+Use raw user's ratings with history to make recommendation. This means that the system tries to recommend items which are more similar to them which user has already seen.
 
 In this system, as almost in everything, is the possibility of attacks to prioritize our items or penalize rival's items. We can defend our system with rules, train model to detect it, use hidden fields and so on.
 
+### Hybrid system
+
+<img src="{{ site.baseurl }}/images/Recommendation_system/Hybrid.png" />
+
+Images was taken from presentation of Dietmar Jannach (<a href="https://recsys.acm.org/recsys17/">RecSys</a>)
 
 
 
