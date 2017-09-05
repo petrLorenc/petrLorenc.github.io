@@ -79,7 +79,7 @@ In this system, as almost in everything, is the possibility of attacks to priori
 
 <img src="{{ site.baseurl }}/images/Recommendation_system/Hybrid.png" />
 
-Images was taken from presentation of Dietmar Jannach (<a href="https://recsys.acm.org/recsys17/">RecSys</a>)
+Images was taken from presentation of Dietmar Jannach (presented at <a href="https://recsys.acm.org/recsys17/">RecSys 2017</a>)
 
 
 

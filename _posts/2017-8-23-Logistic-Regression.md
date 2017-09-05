@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My intuitive explenation of Logistic Regression!
+title: My intuitive explanation of Logistic Regression!
 ---
 
 
