@@ -24,16 +24,3 @@ I would strongly recommend to take part in this course. It is lead by <a href="h
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
