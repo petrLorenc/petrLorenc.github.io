@@ -13,12 +13,19 @@ Václav Sušeň explained basic concepts of starting business.
 His recommendation about books:
 
 - everything from Steve Blank
-- Lean Startup
-- Value proposition design: How to create products and services customers want 
-- Business model generation
+
+	- <a href="https://hbr.org/2013/05/why-the-lean-start-up-changes-everything/ar/1">Why the Lean Start-Up Changes Everything</a>
+	- Owner’s Manual: The Step-By-Step Guide for Building a Great Company
+	- <a href="https://www.udacity.com/course/how-to-build-a-startup--ep245">Udacity course</a>
+	- Lean Startup
+
 - everything from Alexander Osterwalder
 
-If we want to create a startup we should ask the hypothesis, doing an experiments about these hypothesis and then measure that the hypothesis are right/wrong. It is very important to speak with customer - they usually don't know what they want, but they can show you right direction anyway (atleast they can show you the wrong direction). You should not artifically create the problem to have the opportunity, but you should look for problems which are common (say most 3 common problem of your friend) and look for the oppportunity in solving them.
+    - Value Proposition Design: How to Create Products and Services Customers Want 
+
+- Business model generation
+
+If we want to create a startup we should ask the hypothesis, doing an experiments about these hypothesis and then measure that the hypothesis are right/wrong. It is very important to speak with customer - they usually don't know what they want, but they can show you right direction anyway (atleast they can show you the wrong direction). You should not artifically create the problem to have the opportunity, but you should look for problems which are very common (say most 3 common problem of your friend) and look for the oppportunity in solving them.
 
 One of the definition of startup say that the startup is a "group of people" which ARE LOOKING for repeatable, profitable and stable entepreneurship intent. If they stop looking for new ideas and just improving one then it is company, not startup. 
 
@@ -33,7 +40,7 @@ At the beginning focus just on the TOP 2 LEVELS.
 
 ### AI workshop
 
-This workshop was just some overview about current progress in the AI field. Because I have a technical backround, it gives me no additional information.
+This workshop was just some overview about current progress in the AI field. Because I have a technical background, it gives me almost no additional information. It was aimed on students of non-technical universities. And he also say few things about the exponencial growth.
 
 - https://waitbutwhy.com/
 
