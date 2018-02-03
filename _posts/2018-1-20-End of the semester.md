@@ -4,7 +4,7 @@ title: End of the semester at CTU
 comments: true
 ---
 
-I managed to do all tests and project required in this semester. I had several subjects but most interesting was these two:
+I managed to do all tests and project required in this semester. I had several subjects but most interesting were these two:
 
 	- The introduction into Natural language processing
 	- World economy and entrepreneurship
