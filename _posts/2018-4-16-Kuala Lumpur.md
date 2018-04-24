@@ -38,7 +38,7 @@ Při cestování metrem (které většinu času jede nad zemí) nebo vlakem vás
  Nevychované děti mi nicméně trochu připomněly i návštěvu Batu Caves, kde je celá armáda opic. Opravdu nedoporučuji cokoliv vyndávat z tašky a být při tom spatřen opicí. Člověk by si myslel, že zdejší slušně vychované a turisty vykrmené opice to přejdou jenom letmým pohledem. Opak je pravdou, opice vytvoří útočnou formaci a neštastníka/návštěvníka s batohem napadají tak dlouho, dokud jim buď nedá něco k jídlu, nebo pořádný kopanec (a věřte mi, že většina zdejších opic by si zasloužila to druhé).
 
 
-<img src="{{ site.baseurl }}/images/KL/09.JPG" alt="Batu Caves a celá naše skupina" title="Batu Caves a celá naše skupina"/>
+<img src="{{ site.baseurl }}/images/KL/09.jpeg" alt="Batu Caves a celá naše skupina" title="Batu Caves a celá naše skupina"/>
 
 
 ## Ostatní
