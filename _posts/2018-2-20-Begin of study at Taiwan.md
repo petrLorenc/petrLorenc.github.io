@@ -4,6 +4,8 @@ title: Začátek studia na Taiwanu a obecně o Taiwanu (CZ)
 comments: true
 ---
 
+Chtěl bych napsat sérii příspěvků o mém studijním pobytu na Taiwanu. Osnova by měla být následující (bude se postupně měnit):
+
 {% include menu_taiwan.html %}
 
 Po pohovoru, zkoušce a hromadě starostí jsem se stal Taiwanským studentem. Je to jenom na jeden semestr, ale i tak jsem přesvědčený, že to člověka změní k nepoznání. Jen si to představte – začíná na zelené louce, nikoho nezná, rodina a přátelé jsou daleko a jediný na koho se může spolehnout je on sám. To pro mě bylo hodně nové a i po téměř 2 měsících si na to musím stále zvykat. K tomu se přidaly partnerské problémy a máme recept na ideální "výlet", kde se fakt jede od nuly. 
