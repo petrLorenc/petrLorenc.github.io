@@ -4,6 +4,8 @@ title: Kuala Lumpur (CZ)
 comments: true
 ---
 
+Nejenom školou živ je člověk, a tak jsem vyrazil na výlet do Malajsie. Přívítalo mě město Kuala Lumpur.
+
 {% include menu_taiwan.html %}
 
 Níže vidíte mapu všeho, co jsem v Kuala Lumpuru navštívil. Na první pohled toho není moc, ale ani na mapu nelze jednoduše zachytit všechny zážitky, a navíc jsem tam byl jen necelé 4 dny. 
