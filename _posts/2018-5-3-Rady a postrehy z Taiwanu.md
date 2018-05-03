@@ -8,7 +8,7 @@ Na následujících pár řádcích shrnu postřehy z prvních dvou měsíců, k
 
 {% include menu_taiwan.html %}
 
-Chtěl bych se omluvit za kvalitu některých fotek níže. Moje stařičká Motorola už nestačí dnešním standartům (jestli teda někdy stačila) ...
+Chtěl bych se omluvit za kvalitu některých fotek níže. Moje stařičká Motorola už nestačí dnešním standardům (jestli teda někdy stačila) ...
 
 ## Folow the rules (zvyk z Japonska)
 
