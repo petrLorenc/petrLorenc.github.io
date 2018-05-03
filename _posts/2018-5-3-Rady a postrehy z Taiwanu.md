@@ -86,7 +86,7 @@ Protože Taiwan to má díky politické situaci težké, snaží se bojovat na p
 
 <figure align="middle">
   <img src="{{ site.baseurl }}/images/Taiwan_2/09.jpg" alt="nepostradatelný člověk" title="Nepostradatelný člověk" width="60%" height="60%" />
-  <figcaption>Aneb existují práce, kte je člověk nepostradatelný</figcaption>
+  <figcaption>Aneb existují práce, kde je člověk nepostradatelný</figcaption>
 </figure>
 
 
