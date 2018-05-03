@@ -4,11 +4,15 @@ title: Všeználek si stěžuje na Taiwan I. (CZ)
 comments: true
 ---
 
+Na následujících pár řádcích shrnu postřehy z prvních dvou měsíců, které jsem tu zatím prožil. Níže odkazy na předchozí příspěvky, pokud jste ještě neviděli doporučuji aspoň prohlédnout.
+
 {% include menu_taiwan.html %}
+
+Chtěl bych se omluvit za kvalitu některých fotek níže. Moje stařičká Motorola už nestačí dnešním standartům (jestli teda někdy stačila) ...
 
 ## Folow the rules (zvyk z Japonska)
 
-Škola je teď o zkouškovém období tak náročná, že tento příspěvěk během termínu jediné zkoušky, kterou mám. Ukázalo se totiž, že zkouška vzpočívá ve sledování nějakého dokumentu a že shrnutí/report musí napsat jenom ti, co nepřišli včas. I takových chudáků pár bylo. Ostatní zkoušky se z mně neznámého důvodu nekonají. Hlavní je ale důraz na pravidla (a čím stupidnější pravidlo, tím víc se musí dodržovat). Příkladem budiž žádost o přístup do kuchyně (ano, zde se musí písemně žádat o přístup do kuchyně, dostanou ho jenom cizinci a vůbec to není taková ta "evropská" kuchyň, nýbrž jedna mikrovlnka, jedna lednice a jeden toaster, který kdosi použil ke grilování masa, takže toaster už moc nepřipomíná). Tak tedy, když člověk pouze poslal email s žádostí o přístup, měl smůlu, protože je to proti pravidlům, která ale nebyla nikde anglicky zveřejněna. Jediný způsob bylo osobní podepsání dokumentů, o čemž jsem se dozvěděl den po termínu a tudíž mám "smolíka". To, že je možné do kuchyně vstupovat jenom v časech 8:00-9:00, 11:30-13:00 a 17:00-18:30 je na další kolo stěžování.
+Škola je teď o zkouškovém období tak náročná, že tento příspěvěk píšu během termínu jediné zkoušky, kterou mám. Ukázalo se totiž, že zkouška vzpočívá ve sledování nějakého dokumentu a že shrnutí/report musí napsat jenom ti, co nepřišli včas. I takových chudáků pár bylo. Ostatní zkoušky se z mně neznámého důvodu nekonají. Hlavní je ale důraz na pravidla (a čím stupidnější pravidlo, tím víc se musí dodržovat). Příkladem budiž žádost o přístup do kuchyně (ano, zde se musí písemně žádat o přístup do kuchyně, dostanou ho jenom cizinci a vůbec to není taková ta "evropská" kuchyň, nýbrž jedna mikrovlnka, jedna lednice a jeden toaster, který kdosi použil ke grilování masa, takže toaster už moc nepřipomíná). Tak tedy, když člověk pouze poslal email s žádostí o přístup, měl smůlu, protože je to proti pravidlům, která ale nebyla nikde anglicky zveřejněna. Jediný způsob bylo osobní podepsání dokumentů, o čemž jsem se dozvěděl den po termínu a tudíž mám "smolíka". To, že je možné do kuchyně vstupovat jenom v časech 8:00-9:00, 11:30-13:00 a 17:00-18:30 je na další kolo stěžování.
 
 
 
@@ -111,11 +115,11 @@ Protože Taiwan to má díky politické situaci težké, snaží se bojovat na p
 
 
 <figure align="middle">
-  <img src="{{ site.baseurl }}/images/Taiwan_2/03.jpg" alt="Bezpečnost nade vše, aneb zásuvka pod proudem - podobnou máme v koupelně"" title="Bezpečnost" width="60%" height="60%" />
+  <img src="{{ site.baseurl }}/images/Taiwan_2/03.jpg" alt="Bezpečnost nade vše, aneb zásuvka pod proudem - podobnou máme v koupelně" title="Bezpečnost" width="60%" height="60%" />
   <figcaption>Bezpečnost nade vše, aneb zásuvka pod proudem - podobnou máme v koupelně ...</figcaption>
 </figure>
 
-
+ A to by bylo prozatím vše. Děkuji
 
 
 
