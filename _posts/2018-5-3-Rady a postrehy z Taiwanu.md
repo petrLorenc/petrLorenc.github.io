@@ -108,8 +108,8 @@ Protože Taiwan to má díky politické situaci težké, snaží se bojovat na p
 
 
 <figure align="middle">
-  <img src="{{ site.baseurl }}/images/Taiwan_2/11.jpg" alt="Když se zábava stane závislost" title="Když se zábava stane závislost" width="60%" height="60%" />
-  <figcaption>Když se zábava stane závislost</figcaption>
+  <img src="{{ site.baseurl }}/images/Taiwan_2/11.jpg" alt="Když se zábava stane závislostí" title="Když se zábava stane závislostí" width="60%" height="60%" />
+  <figcaption>Když se zábava stane závislostí</figcaption>
 </figure>
 
 
