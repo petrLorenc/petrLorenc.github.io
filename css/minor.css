@@ -7,6 +7,7 @@ figure {
 	text-indent: 0;
 	border: thin silver solid;
 	padding: 0.5em;
+	margin-bottom: 8px;
 	width: 60%;
 	height: 60%;
 }
