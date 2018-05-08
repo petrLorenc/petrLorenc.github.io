@@ -3,7 +3,6 @@ layout: post
 title: Homo Deus: A Brief History of Tomorrow
 comments: true
 ---
-<a href="https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310"><img src=""></img></a>
 
 <figure align="middle">
   <a href="https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310">
