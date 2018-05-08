@@ -1,22 +1,53 @@
----
-layout: default
----
+<!DOCTYPE HTML>
+<!--
+	Aerial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Petr Lorenc</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+	</head>
+	<body class="loading">
+		<div id="wrapper">
+			<div id="bg"></div>
+			<div id="overlay"></div>
+			<div id="main">
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+				<!-- Header -->
+					<header id="header">
+						<h1>Petr Lorenc</h1>
+						<p>Student &nbsp;&bull;&nbsp; Programmer &nbsp;&bull;&nbsp; Machine Learning</p>
+						<nav>
+							<ul>
+								<li><a href="https://twitter.com/United121cz" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a href="https://www.facebook.com/petr.lorenc.ml" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+                <li><a href="https://www.linkedin.com/in/petr-lorenc-34191ba7/" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+								<li><a href="https://github.com/petrLorenc" class="icon fa-github"><span class="label">Github</span></a></li>
+								<li><a href="mailto:petr.lorenc.ml@gmail.com" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+                <li><a href="/blog" class="icon fa-rss"><span class="label">Blog</span></a></li>
+							</ul>
+						</nav>
+					</header>
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+				<!-- Footer -->
+					<footer id="footer">
+						<span class="copyright">&copy; Petr Lorenc. Design taken from <a href="http://html5up.net">HTML5 UP</a>.</span>
+					</footer>
 
-      <div class="date">
-	    Written on {{ post.date | date: "%B %e, %Y" }}
-	  </div>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-      
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+			</div>
+		</div>
+		<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+		<script>
+			window.onload = function() { document.body.className = ''; }
+			window.ontouchmove = function() { return false; }
+			window.onorientationchange = function() { document.body.scrollTop = 0; }
+		</script>
+	</body>
+</html>

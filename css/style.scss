@@ -7,6 +7,8 @@
 
 @import "reset";
 @import "variables";
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
+@import url("font-awesome.min.css");
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -19,7 +21,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font-family: 'Source Sans Pro', sans-serif;
   color: $darkGray;
 }
 
@@ -31,7 +33,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: 'Source Sans Pro', sans-serif;
   color: $darkerGray;
   font-weight: bold;
 
@@ -53,6 +55,9 @@ h1 {
 
 h2 {
   font-size: 24px;
+  a {
+    color: inherit;
+  }
 }
 
 h3 {
@@ -151,10 +156,10 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
-  background-image: url("{{ site.baseurl }}/images/intro2.jpg");
+  background-image: url("/images/bg3.png");
   background-size: 100%;
-  height: 400px;
+  width: 100%;
+  height: 220px;
 }
 
 .masthead {

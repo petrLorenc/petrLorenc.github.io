@@ -17,14 +17,14 @@ Chtěl bych se omluvit za kvalitu některých fotek níže. Moje stařičká Mot
 
 
 <figure align="middle">
-  <img src="{{ site.baseurl }}/images/Taiwan_2/01.jpg" alt="Pokud nebudeš poslouchat, skončíš ve vězení (foceno na naší univerzitě)" title="Univerzita jako vězení" width="60%" height="60%" />
+  <img src="{{ site.baseurl }}/images/Taiwan_2/01.jpg" alt="Pokud nebudeš poslouchat, skončíš ve vězení (foceno na naší univerzitě)" title="Univerzita jako vězení" />
   <figcaption>Pokud nebudeš poslouchat, skončíš ve vězení (foceno na naší univerzitě)</figcaption>
 </figure>
 
 
 
 <figure align="middle">
-  <img src="{{ site.baseurl }}/images/Taiwan_2/02.jpg" alt="Nalajnované fronty v metru" title="Nalajnované fronty v metru" width="60%" height="60%" />
+  <img src="{{ site.baseurl }}/images/Taiwan_2/02.jpg" alt="Nalajnované fronty v metru" title="Nalajnované fronty v metru" />
   <figcaption>Nalajnované fronty v metru</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ Taipei jako město má tu výhodu, že leží uprostřed mnoha kopců a o pěkn�
 
 
 <figure align="middle">
-  <img src="{{ site.baseurl }}/images/Taiwan_2/05.jpg" alt="Smog a písek na Taipeí" title="Smog a písek na Taipeí" width="60%" height="60%" />
+  <img src="{{ site.baseurl }}/images/Taiwan_2/05.jpg" alt="Smog a písek na Taipeí" title="Smog a písek na Taipeí" />
   <figcaption>Smog a písek na Taipeí</figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ Když už jsme u těch odpadků, tak vám položím klíčovou otázku: Jak se v
 
 
 <figure align="middle">
-  <img src="{{ site.baseurl }}/images/Taiwan_2/04.jpg" alt="Tohle asi taky nebyl rozumný nápad - o půlnoci dvojnásob" title="Půlnoc na kolejích" width="60%" height="60%" />
+  <img src="{{ site.baseurl }}/images/Taiwan_2/04.jpg" alt="Tohle asi taky nebyl rozumný nápad - o půlnoci dvojnásob" title="Půlnoc na kolejích" />
   <figcaption>Tohle asi taky nebyl rozumný nápad - o půlnoci dvojnásob</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ Tohle je velmi silné tvrzení, ale mám pocit, že pokud je klasický Evropan v
 
 
 <figure align="middle">
-  <img src="{{ site.baseurl }}/images/Taiwan_2/06.jpg" alt="Každý chce být bílý" title="Každý chce být bílý" width="60%" height="60%" />
+  <img src="{{ site.baseurl }}/images/Taiwan_2/06.jpg" alt="Každý chce být bílý" title="Každý chce být bílý" />
   <figcaption>Každý chce být bílý</figcaption>
 </figure>
 
@@ -67,7 +67,7 @@ Kolej je vcelku v pohodě (když vynecháme "kuchyň", viz výše), ale jak to u
 
 
 <figure align="middle">
-  <img src="{{ site.baseurl }}/images/Taiwan_2/07.jpg" alt="Vodní fontána" title="Vodní fontána" width="60%" height="60%" />
+  <img src="{{ site.baseurl }}/images/Taiwan_2/07.jpg" alt="Vodní fontána" title="Vodní fontána" />
   <figcaption>Pro změnu docela chytrá mašina na vodu, teplá voda bez čekání</figcaption>
 </figure>
 
@@ -78,14 +78,14 @@ Protože Taiwan to má díky politické situaci težké, snaží se bojovat na p
 
 
 <figure align="middle">
-  <img src="{{ site.baseurl }}/images/Taiwan_2/08.jpg" alt="Večerní ulice Taipeje" title="Večerní ulice Taipeje" width="60%" height="60%" />
+  <img src="{{ site.baseurl }}/images/Taiwan_2/08.jpg" alt="Večerní ulice Taipeje" title="Večerní ulice Taipeje" />
   <figcaption>Večerní ulice Taipeje</figcaption>
 </figure>
 
 
 
 <figure align="middle">
-  <img src="{{ site.baseurl }}/images/Taiwan_2/09.jpg" alt="nepostradatelný člověk" title="Nepostradatelný člověk" width="60%" height="60%" />
+  <img src="{{ site.baseurl }}/images/Taiwan_2/09.jpg" alt="nepostradatelný člověk" title="Nepostradatelný člověk" />
   <figcaption>Aneb existují práce, kde je člověk nepostradatelný</figcaption>
 </figure>
 
@@ -101,21 +101,21 @@ Protože Taiwan to má díky politické situaci težké, snaží se bojovat na p
 
 
 <figure align="middle">
-  <img src="{{ site.baseurl }}/images/Taiwan_2/10.jpg" alt="Místní zábava" title="Místní zábava" width="60%" height="60%" />
+  <img src="{{ site.baseurl }}/images/Taiwan_2/10.jpg" alt="Místní zábava" title="Místní zábava" />
   <figcaption>Místní zábava</figcaption>
 </figure>
 
 
 
 <figure align="middle">
-  <img src="{{ site.baseurl }}/images/Taiwan_2/11.jpg" alt="Když se zábava stane závislostí" title="Když se zábava stane závislostí" width="60%" height="60%" />
+  <img src="{{ site.baseurl }}/images/Taiwan_2/11.jpg" alt="Když se zábava stane závislostí" title="Když se zábava stane závislostí" />
   <figcaption>Když se zábava stane závislostí</figcaption>
 </figure>
 
 
 
 <figure align="middle">
-  <img src="{{ site.baseurl }}/images/Taiwan_2/03.jpg" alt="Bezpečnost nade vše, aneb zásuvka pod proudem - podobnou máme v koupelně" title="Bezpečnost" width="60%" height="60%" />
+  <img src="{{ site.baseurl }}/images/Taiwan_2/03.jpg" alt="Bezpečnost nade vše, aneb zásuvka pod proudem - podobnou máme v koupelně" title="Bezpečnost" />
   <figcaption>Bezpečnost nade vše, aneb zásuvka pod proudem - podobnou máme v koupelně ...</figcaption>
 </figure>
 

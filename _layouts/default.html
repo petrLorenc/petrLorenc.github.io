@@ -11,6 +11,8 @@
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/style.css" />
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/syntax.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/minor.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/font-awesome.min.css">
 
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
@@ -22,20 +24,12 @@
 
   <body>
     <div class="wrapper-masthead">
-      <div class="container head">
-        <header class="masthead clearfix">
-          
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/"><b>{{ site.name }}</b></a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
-
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
+        <header class="top-container">
+          <h1><a href="{{ site.baseurl }}/"><b>{{ site.name }}</b></a></h1>
+          <h2>{{ site.description }}</h2>
+          <h2><a href="{{ site.baseurl }}/about"><b>About ME</b></a></h2>
+          <a href="https://youtube.com/{{ site.footer-links.youtube }}"><i class="svg-icon about"></i></a>
         </header>
-      </div>
     </div>
 
     <div id="main" role="main" class="container">

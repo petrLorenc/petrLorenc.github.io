@@ -61,10 +61,12 @@ Při cestování metrem (které většinu času jede nad zemí) nebo vlakem vás
 
 Velmi doporučuji navštívit indickou čtvrť. Je zde k sehnání opravdu mnoho věcí hýřících všemi barvami, i když si na nich bohužel moc nepochutnáte. Pokud se vůbec dají jíst, tak chutnají většinou stejně, tj. pálivě. Hygiena je zde také považována za nesmysl 21. století a jíst rukama na zemi je běžnejší než oblaka smogu nad Taipeí. 
 
-
-<img src="{{ site.baseurl }}/images/KL/03.JPG" alt="Indická čtvrť" title="Indická čtvrť"/>
-<img src="{{ site.baseurl }}/images/KL/04.JPG" alt="Indická čtvrť 2" title="Indická čtvrť 2"/>
-
+<figure>
+	<img src="{{ site.baseurl }}/images/KL/03.JPG" alt="Indická čtvrť" title="Indická čtvrť"/>
+</figure>
+<figure>
+	<img src="{{ site.baseurl }}/images/KL/04.JPG" alt="Indická čtvrť 2" title="Indická čtvrť 2"/>
+</figure>
 
 Pokud chcete utéci od ruchu velkoměsta a přitom nemuset použít jiný způsob dopravy než vlastní nohy, Kuala Lumpur nabízí možnost procházky ve zmenšené verzi deštného pralesa. I zde bylo možné, přes tekoucí pot, zahlédnout opice hrající si na stromech, různá slizká zvířátka hrající si pod stromy a hejna krvežíznivých komárů hrajících si v povětří (zejména oblíbené je utkání s názvem "Kdo víc poštípe turistu"). Ale jak jsem řekl - aspoň tady neni zbytečně moc lidí :D.
 

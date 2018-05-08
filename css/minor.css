@@ -1,0 +1,55 @@
+figure {
+	margin-left: auto;
+    margin-right: auto;
+	text-align: center;
+	font-style: italic;
+	font-size: smaller;
+	text-indent: 0;
+	border: thin silver solid;
+	padding: 0.5em;
+	width: 60%;
+	height: 60%;
+}
+
+
+.top-container {
+  padding: 1px;
+  text-align: center;
+}
+
+.top-container h1 {
+	font-size: 4em;
+	color : white;
+	text-shadow: 5px 5px 0 #000000;
+	margin: 0;
+}
+
+.top-container h1 a{
+	color : white;
+	-webkit-transition: 1s; /* Safari */
+    transition: 1s;
+}
+
+.top-container h1 a:hover{
+	color : black;
+	text-shadow: 5px 5px 0 #ffffff;
+}
+
+.top-container h2 {
+	font-size: 1.8em;
+	color : white;
+	text-shadow: 2px 2px 0 #000000;
+	margin: 0;
+}
+
+.top-container h2 a{
+	color : white;
+	-webkit-transition: 1s; /* Safari */
+    transition: 1s;
+}
+
+.top-container h2 a:hover{
+	color : black;
+	text-shadow: 2px 2px 0 #ffffff;
+}
+
