@@ -12,6 +12,14 @@ figure {
 	height: 60%;
 }
 
+.wrapper-masthead {
+	background: #348cb2 url("../images/bg3.png");
+	background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center;  
+  	width: 100%;
+  	height: 220px;
+}
 
 .top-container {
   padding: 1px;
