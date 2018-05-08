@@ -4,6 +4,8 @@ title: Homo Deus - A Brief History of Tomorrow
 comments: true
 ---
 
+<a href="https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow">Homo Deus: A Brief History of Tomorrow</a>
+by Israeli author Yuval Noah Harari, professor at the Hebrew University in Jerusalem.
 
 <figure align="middle">
   <a href="https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310">
@@ -11,9 +13,6 @@ comments: true
     <figcaption>Cover of book</figcaption>
   </a>
 </figure>
-
-<a href="https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow">Homo Deus: A Brief History of Tomorrow</a>
-by Israeli author Yuval Noah Harari, professor at the Hebrew University in Jerusalem.
 
  I have just finished reading this book. I would strongly recommend to read it to everyone interested in possible development in the future – it also looks that me and some guy named Bill Gates have <a href="https://www.gatesnotes.com/Books/Homo-Deus">same opinion</a>. After reading this book, you start to think a little bit differently about your future. I don't want to go much into details of the book. There is so much information and opinions that I would need to rewrite the whole book again to catch them all. I would just like to point out several ideas and questions, which do not have one right answer, but I think it is worth to take a while and think about them.
 
