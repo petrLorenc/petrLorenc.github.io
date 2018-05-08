@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Homo Deus: A Brief History of Tomorrow
+title: Homo Deus - A Brief History of Tomorrow
 comments: true
 ---
 
+
 <figure align="middle">
   <a href="https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310">
-    <img src="{{ site.baseurl }}/images/Homo_Deus/02.jpg" alt="Cover of book" title="Cover of book"/>
+    <img src="{{ site.baseurl }}/images/Homo_deus/02.jpg" alt="Cover of book" title="Cover of book"/>
     <figcaption>Cover of book</figcaption>
   </a>
 </figure>
@@ -44,8 +45,9 @@ by Israeli author Yuval Noah Harari, professor at the Hebrew University in Jerus
 **"What would happen to society, politics and daily life when non-conscious but highly intelligent algorithms knew us better than we know ourselves?"**
 
 <figure align="middle">
-  <a href="{{ site.baseurl }}/images/Homo_Deus/01.jpeg" data-lightbox="What do you think?" data-title="What do you think?">
-    <img src="{{ site.baseurl }}/images/Homo_Deus/01.jpeg" alt="What do you think?" title="What do you think?"/>
+  <a href="{{ site.baseurl }}/images/Homo_deus/01.jpeg" data-lightbox="What do you think?" data-title="What do you think?">
+    <img src="{{ site.baseurl }}/images/Homo_deus/01.jpeg" alt="What do you think?" title="What do you think?"/>
     <figcaption>What do you think?</figcaption>
   </a>
 </figure>
+
