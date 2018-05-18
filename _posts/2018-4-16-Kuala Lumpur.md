@@ -1,6 +1,8 @@
 ﻿---
 layout: post
 title: Kuala Lumpur (CZ)
+description: Cestování po Kualu Lumpuru, Malajsie, zkušenosti a památky
+author: Petr Lorenc
 comments: true
 ---
 

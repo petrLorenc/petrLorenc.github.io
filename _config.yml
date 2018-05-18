@@ -4,6 +4,8 @@
 
 # Name of your site (displayed in the header)
 name: Petr Lorenc
+author: Petr Lorenc
+description: Personal blog of Petr Lorenc. Programming, travelling, books
 
 theme: jekyll-theme-tactile
 
@@ -32,6 +34,15 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
+
+social:
+  name: Petr Lorenc
+  links:
+    - https://twitter.com/United121cz
+    - https://www.facebook.com/petr.lorenc.ml
+    - https://www.linkedin.com/in/petr-lorenc-34191ba7/
+    - https://plus.google.com/+BenBalter
+    - https://github.com/petrLorenc
 
 timezone: Asia/Taipei
 future: true
@@ -83,6 +94,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-seo-tag
 
 # Exclude these files from your production _site
 exclude:

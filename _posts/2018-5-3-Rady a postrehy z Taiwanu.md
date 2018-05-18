@@ -1,6 +1,8 @@
 ﻿---
 layout: post
 title: Všeználek si stěžuje na Taiwan I. (CZ)
+description: Potřehy a poznatky z pobytu na Taiwanu
+author: Petr Lorenc
 comments: true
 ---
 

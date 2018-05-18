@@ -1,6 +1,8 @@
 ﻿---
 layout: post
 title: Začátek studia na Taiwanu a obecně o Taiwanu (CZ)
+description: Jak to začalo s mým studiem na Taiwanu
+author: Petr Lorenc
 comments: true
 ---
 

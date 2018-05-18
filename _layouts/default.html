@@ -17,13 +17,14 @@
 
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
+    {% seo %}
   </head>
 
   <body>
     <div class="wrapper-masthead">
         <header class="top-container">
           <h1><a href="{{ site.baseurl }}/"><b>{{ site.name }}</b></a></h1>
-          <h2>{{ site.description }}</h2>
+          <h2><a href="{{ site.baseurl }}/blog">{{ site.description }}</a></h2>
           <h2><a href="{{ site.baseurl }}/about"><b>About ME</b></a></h2>
         </header>
     </div>
