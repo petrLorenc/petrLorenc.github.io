@@ -131,50 +131,50 @@ Na to, jak jsem psal už dřív, jak je Taipei plná smogu a modrou oblohu uvid�
 
 
 <figure align="middle">
-  <a href="{{ site.baseurl }}/images/vseznalek2/10.JPG" data-lightbox="Domeček na nožičkách" data-title="Domeček na nožičkách" data-lightbox="roadtrip">
-    <img src="{{ site.baseurl }}/images/vseznalek2/10.JPG" alt="Domeček na nožičkách" title="Domeček na nožičkách"/>
+  <a href="{{ site.baseurl }}/images/vseznalek2/10.jpg" data-lightbox="Domeček na nožičkách" data-title="Domeček na nožičkách" data-lightbox="roadtrip">
+    <img src="{{ site.baseurl }}/images/vseznalek2/10.jpg" alt="Domeček na nožičkách" title="Domeček na nožičkách"/>
     <figcaption>Domeček na nožičkách</figcaption>
   </a>
 </figure>
 
 <figure align="middle">
-  <a href="{{ site.baseurl }}/images/vseznalek2/11.JPG" data-lightbox="Domeček na kolečkách" data-title="Domeček na kolečkách" data-lightbox="roadtrip">
-    <img src="{{ site.baseurl }}/images/vseznalek2/11.JPG" alt="Domeček na kolečkách" title="Domeček na kolečkách"/>
+  <a href="{{ site.baseurl }}/images/vseznalek2/11.jpg" data-lightbox="Domeček na kolečkách" data-title="Domeček na kolečkách" data-lightbox="roadtrip">
+    <img src="{{ site.baseurl }}/images/vseznalek2/11.jpg" alt="Domeček na kolečkách" title="Domeček na kolečkách"/>
     <figcaption>Domeček na kolečkách</figcaption>
   </a>
 </figure>
 
 <figure align="middle">
-  <a href="{{ site.baseurl }}/images/vseznalek2/12.JPG" data-lightbox="Výstava a prodej oblečení v našem kampusu" data-title="Výstava a prodej oblečení v našem kampusu" data-lightbox="roadtrip">
-    <img src="{{ site.baseurl }}/images/vseznalek2/12.JPG" alt="Výstava a prodej oblečení v našem kampusu" title="Výstava a prodej oblečení v našem kampusu"/>
+  <a href="{{ site.baseurl }}/images/vseznalek2/12.jpg" data-lightbox="Výstava a prodej oblečení v našem kampusu" data-title="Výstava a prodej oblečení v našem kampusu" data-lightbox="roadtrip">
+    <img src="{{ site.baseurl }}/images/vseznalek2/12.jpg" alt="Výstava a prodej oblečení v našem kampusu" title="Výstava a prodej oblečení v našem kampusu"/>
     <figcaption>Výstava a prodej oblečení v našem kampusu</figcaption>
   </a>
 </figure>
 
 <figure align="middle">
-  <a href="{{ site.baseurl }}/images/vseznalek2/13.JPG" data-lightbox="Ohřívač očních víček" data-title="Ohřívač očních víček" data-lightbox="roadtrip">
-    <img src="{{ site.baseurl }}/images/vseznalek2/13.JPG" alt="Ohřívač očních víček" title="Ohřívač očních víček"/>
+  <a href="{{ site.baseurl }}/images/vseznalek2/13.jpg" data-lightbox="Ohřívač očních víček" data-title="Ohřívač očních víček" data-lightbox="roadtrip">
+    <img src="{{ site.baseurl }}/images/vseznalek2/13.jpg" alt="Ohřívač očních víček" title="Ohřívač očních víček"/>
     <figcaption>Ohřívač očních víček</figcaption>
   </a>
 </figure>
 
 <figure align="middle">
-  <a href="{{ site.baseurl }}/images/vseznalek2/15.JPG" data-lightbox="Blokace 9. patra aneb aby náhodou kluk nepotkal na koleji holku" data-title="Blokace 9. patra aneb aby náhodou kluk nepotkal na koleji holku" data-lightbox="roadtrip">
-    <img src="{{ site.baseurl }}/images/vseznalek2/15.JPG" alt="Blokace 9. patra aneb aby náhodou kluk nepotkal na koleji holku" title="Blokace 9. patra aneb aby náhodou kluk nepotkal na koleji holku"/>
+  <a href="{{ site.baseurl }}/images/vseznalek2/15.jpg" data-lightbox="Blokace 9. patra aneb aby náhodou kluk nepotkal na koleji holku" data-title="Blokace 9. patra aneb aby náhodou kluk nepotkal na koleji holku" data-lightbox="roadtrip">
+    <img src="{{ site.baseurl }}/images/vseznalek2/15.jpg" alt="Blokace 9. patra aneb aby náhodou kluk nepotkal na koleji holku" title="Blokace 9. patra aneb aby náhodou kluk nepotkal na koleji holku"/>
     <figcaption>Blokace 9. patra aneb aby náhodou kluk nepotkal na koleji holku</figcaption>
   </a>
 </figure>
 
 <figure align="middle">
-  <a href="{{ site.baseurl }}/images/vseznalek2/16.JPG" data-lightbox="I takto může vypadat prodejna s elektronikou" data-title="I takto může vypadat prodejna s elektronikou" data-lightbox="roadtrip">
-    <img src="{{ site.baseurl }}/images/vseznalek2/16.JPG" alt="I takto může vypadat prodejna s elektronikou" title="I takto může vypadat prodejna s elektronikou"/>
+  <a href="{{ site.baseurl }}/images/vseznalek2/16.jpg" data-lightbox="I takto může vypadat prodejna s elektronikou" data-title="I takto může vypadat prodejna s elektronikou" data-lightbox="roadtrip">
+    <img src="{{ site.baseurl }}/images/vseznalek2/16.jpg" alt="I takto může vypadat prodejna s elektronikou" title="I takto může vypadat prodejna s elektronikou"/>
     <figcaption>I takto může vypadat prodejna s elektronikou (a ano, jsou tady i horší)</figcaption>
   </a>
 </figure>
 
 <figure align="middle">
-  <a href="{{ site.baseurl }}/images/vseznalek2/17.JPG" data-lightbox="Jestli ale něco umějí opravdu dobře, tak tanec" data-title="Jestli ale něco umějí opravdu dobře, tak tanec" data-lightbox="roadtrip">
-    <img src="{{ site.baseurl }}/images/vseznalek2/17.JPG" alt="Jestli ale něco umějí opravdu dobře, tak tanec" title="Jestli ale něco umějí opravdu dobře, tak tanec"/>
+  <a href="{{ site.baseurl }}/images/vseznalek2/17.jpg" data-lightbox="Jestli ale něco umějí opravdu dobře, tak tanec" data-title="Jestli ale něco umějí opravdu dobře, tak tanec" data-lightbox="roadtrip">
+    <img src="{{ site.baseurl }}/images/vseznalek2/17.jpg" alt="Jestli ale něco umějí opravdu dobře, tak tanec" title="Jestli ale něco umějí opravdu dobře, tak tanec"/>
     <figcaption>Jestli ale něco umějí opravdu dobře, tak tanec</figcaption>
   </a>
 </figure>
