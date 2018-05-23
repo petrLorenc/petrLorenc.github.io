@@ -64,8 +64,8 @@ Je docela vtipné sledovat "uváděný taiwanský stupeň náročnosti" jednotli
 Konečně jsem se sžil (spíše se smířil) s otevírací dobou posilovny a začal jsem posilovat místo oběda. Připadám si trošku divně, když jím oběd/večeři prakticky denně nadvakrát (půlku před posilovnou a půlku po), ale co bych pro posilovnu neobětoval (ti, co mě znají, vědí, že takových věcí moc není). Posilovna je docela zařízená a dělí se na několik částí, i když já většinu času stejně využívám jen prostor s volnými váhami a lavicí pro benchpress. Cvičení probíhá v taiwanském stylu - tj. ne jako jsem byl zvyklý, že po položení ručníku na stroj si můžu v klidu odcvičit svoje 4 série bez vyrušení, ale formou zdejšího národního zvyku, a tudíž tvořením front. To může vést ke dvěma velice odlišným situacím. Buď neustále čekáte, nebo se střídáte jenom s jedním člověkem, což vede k pauzám nezi sériemi asi 20 vteřin (oboje neni úplně ideální).
 
 <figure align="middle">
-  <a href="{{ site.baseurl }}/images/vseznalek2/18.JPG" data-lightbox="Jako vždy až do zavíračky (bohužel platí jenom u posilovny)" data-title="Jako vždy až do zavíračky (bohužel platí jenom u posilovny)" data-lightbox="roadtrip">
-    <img src="{{ site.baseurl }}/images/vseznalek2/18.JPG" alt="Jako vždy až do zavíračky (bohužel platí jenom u posilovny)" title="Jako vždy až do zavíračky (bohužel platí jenom u posilovny)"/>
+  <a href="{{ site.baseurl }}/images/vseznalek2/18.jpg" data-lightbox="Jako vždy až do zavíračky (bohužel platí jenom u posilovny)" data-title="Jako vždy až do zavíračky (bohužel platí jenom u posilovny)" data-lightbox="roadtrip">
+    <img src="{{ site.baseurl }}/images/vseznalek2/18.jpg" alt="Jako vždy až do zavíračky (bohužel platí jenom u posilovny)" title="Jako vždy až do zavíračky (bohužel platí jenom u posilovny)"/>
     <figcaption>Jako vždy až do zavíračky (bohužel platí jenom u posilovny)</figcaption>
   </a>
 </figure>
