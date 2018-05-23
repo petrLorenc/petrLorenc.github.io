@@ -26,7 +26,7 @@ Letenky mimo Taiwan jsou drahé, tak proč vlastně nezačít objevovat krásy T
   * Spolu se svým palcem najděte vhodné místo, kde jezdí dostatek aut a nejlépe tím směrem, kterým se chcete vydat
   * Nasaďte americký úsměv, palec vztyčte vzhůru a co nejvíce ukážete kůži, aby všichni viděli, že jste bílý
   * Slušně ignorujte místní, kteří vás upozorňují, že stopování není možné
-  * Čekejte na první auto, které zastaví (obvykle to trvá pár minut)
+  * **Čekejte na první auto, které zastaví (obvykle to trvá pár minut)**
   * Nastupte a jeďte
   * Pozor dávejte jen na to, aby vás řidič, který vám chce za každou cenu pomoci, nedovezl na nádraží - tam se tento postup provádí o poznání hůře
 
@@ -37,7 +37,7 @@ Letenky mimo Taiwan jsou drahé, tak proč vlastně nezačít objevovat krásy T
   </a>
 </figure>
 
-Po vyzkoušení výše zmíněného postupu mě samotného překvapilo, jak je to jednoduchý a velice příjemný způsob cestování. Ještě víc mě překvapilo, když jsme ve skupině 5 lidí stopnuli postarší pár jedoucí na dovolenou, který neváhal obětovat svoje odpoledne kvůli 100 km dlouhé zajíždce, protože jsme se zmínili, že jedeme dále než oni. 
+Po vyzkoušení výše zmíněného postupu mě samotného překvapilo, jak je to jednoduchý a velice příjemný způsob cestování. **Ještě víc mě překvapilo, když jsme ve skupině 5 lidí stopnuli postarší pár jedoucí na dovolenou, který neváhal obětovat svoje odpoledne kvůli 100 km dlouhé zajíždce, protože jsme se zmínili, že jedeme dále než oni.** 
 
 ## Quo vadis?
 
@@ -57,11 +57,11 @@ Když byste se mě zeptali, jak vypadá moje vysněná dovolená, odpověď by v
   </a>
 </figure>
 
-Je docela vtipné sledovat "uváděný taiwanský stupeň náročnosti" jednotlivých hiků. V tomto taiwanci rádi přehánějí. Možná na to má ale vliv i fakt, že často vyráží na kopce/hiking v žabkách... Potom se není čemu divit, že trail/cestu, kterou značí jako celodenní výlet s vysokou náročností, zvládnete během 2-3 hodin s konstatováním, že tam sice byly náročnější pasáže, ale pokud si vezmete aspoň tenisky, tak jste v pohodě.
+Je docela vtipné sledovat "uváděný taiwanský stupeň náročnosti" jednotlivých hiků. V tomto taiwanci rádi přehánějí. Možná na to má ale vliv i fakt, že často vyráží na **kopce/hiking v žabkách**... Potom se není čemu divit, že trail/cestu, kterou značí jako celodenní výlet s vysokou náročností, zvládnete během 2-3 hodin s konstatováním, že tam sice byly náročnější pasáže, ale pokud si vezmete aspoň tenisky, tak jste v pohodě.
 
 ## Posilovna
 
-Konečně jsem se sžil (spíše se smířil) s otevírací dobou posilovny a začal jsem posilovat místo oběda. Připadám si trošku divně, když jím oběd/večeři prakticky denně nadvakrát (půlku před posilovnou a půlku po), ale co bych pro posilovnu neobětoval (ti, co mě znají, vědí, že takových věcí moc není). Posilovna je docela zařízená a dělí se na několik částí, i když já většinu času stejně využívám jen prostor s volnými váhami a lavicí pro benchpress. Cvičení probíhá v taiwanském stylu - tj. ne jako jsem byl zvyklý, že po položení ručníku na stroj si můžu v klidu odcvičit svoje 4 série bez vyrušení, ale formou zdejšího národního zvyku, a tudíž tvořením front. To může vést ke dvěma velice odlišným situacím. Buď neustále čekáte, nebo se střídáte jenom s jedním člověkem, což vede k pauzám nezi sériemi asi 20 vteřin (oboje neni úplně ideální).
+Konečně jsem se sžil (spíše se smířil) s otevírací dobou posilovny a začal jsem posilovat místo oběda. Připadám si trošku divně, když jím oběd/večeři prakticky denně nadvakrát (půlku před posilovnou a půlku po), ale co bych pro posilovnu neobětoval (ti, co mě znají, vědí, že takových věcí moc není). Posilovna je docela zařízená a dělí se na několik částí, i když já většinu času stejně využívám jen prostor s volnými váhami a lavicí pro benchpress. Cvičení probíhá **v taiwanském stylu** - tj. ne jako jsem byl zvyklý, že po položení ručníku na stroj si můžu v klidu odcvičit svoje 4 série bez vyrušení, ale formou zdejšího národního zvyku, a tudíž tvořením front. To může vést ke dvěma velice odlišným situacím. Buď neustále čekáte, nebo se střídáte jenom s jedním člověkem, což vede k pauzám nezi sériemi asi 20 vteřin (oboje neni úplně ideální).
 
 <figure align="middle">
   <a href="{{ site.baseurl }}/images/vseznalek2/18.jpg" data-lightbox="Jako vždy až do zavíračky (bohužel platí jenom u posilovny)" data-title="Jako vždy až do zavíračky (bohužel platí jenom u posilovny)" data-lightbox="roadtrip">
@@ -72,7 +72,7 @@ Konečně jsem se sžil (spíše se smířil) s otevírací dobou posilovny a za
 
 ## Jídlo
 
-Minule jsem si trošku stěžoval na cenu ovoce a zeleniny, tak v tom budu pokračovat :). Ne, dělam si srandu. Situace se lepší každým dnem a čím více se teploty venku blíží slibovaným 40 stupňům, tím rapidněji ovoce a zelenina zlevňuje. Bylo na čase, protože banánů už mám plné zuby (a břicho taky). Objevil jsem v okolí prodejnu ovoce, kde mají velkou papáju za 50 NTD (asi 35 Kč). Za stejnou cenu už se mi podařilo sehnat i Dragon Fruit a balíček asi 7 mang (snad se takhle mango sloňuje). Už jsem byl také přesycen jídel z menzy (i když samoobslužné pulty mi do důsledku plně vyhovují) a začal jsem objevovat restaurace v okolí. Momentálně je můj favorit vietnamská kuchyně - tolik nesmaží a používají více zeleniny. To se potom v Praze, s jejím množstvím vietnamských podniků, budu cítit velice příjemně - i když mi přijde, že pražští Vietnamci vaří jinak/hůře... (nebo minimálně dráž - zde je cena kolem 60 kč za jídlo, které mi vystačí na oběd a většinou si ještě vezmu zbytek s sebou na večeři)... Ale stejně mi strašně chybí vlastní kuchyň.
+Minule jsem si trošku stěžoval na cenu ovoce a zeleniny, tak v tom budu pokračovat :). Ne, dělam si srandu. Situace se lepší každým dnem a čím více se teploty venku blíží **slibovaným 40 stupňům**, tím rapidněji ovoce a zelenina zlevňuje. Bylo na čase, protože banánů už mám plné zuby (a břicho taky). Objevil jsem v okolí prodejnu ovoce, kde mají velkou **papáju** za 50 NTD (asi 35 Kč). Za stejnou cenu už se mi podařilo sehnat i **Dragon Fruit a balíček asi 7 mang** (snad se takhle mango sloňuje). Už jsem byl také přesycen jídel z menzy (i když samoobslužné pulty mi do důsledku plně vyhovují) a začal jsem objevovat restaurace v okolí. Momentálně je můj favorit **vietnamská kuchyně** - tolik nesmaží a používají více zeleniny. To se potom v Praze, s jejím množstvím vietnamských podniků, budu cítit velice příjemně - i když mi přijde, že pražští Vietnamci vaří jinak/hůře... (nebo minimálně dráž - zde je cena kolem 60 kč za jídlo, které mi vystačí na oběd a většinou si ještě vezmu zbytek s sebou na večeři)... Ale stejně mi strašně chybí vlastní kuchyň.
 
 <figure align="middle">
   <a href="{{ site.baseurl }}/images/vseznalek2/06.JPG" data-lightbox="Papája a můj neuklizený stůl" data-title="Papája a můj neuklizený stůl" data-lightbox="roadtrip">
@@ -83,7 +83,7 @@ Minule jsem si trošku stěžoval na cenu ovoce a zeleniny, tak v tom budu pokra
 
 ## Příroda
 
-Na to, jak jsem psal už dřív, jak je Taipei plná smogu a modrou oblohu uvidíte jenom po zásahu photoshopem, tak příroda mimo město je jak z jiného světa. Ono stačí vyjet pár kilometrů za město a naskytne se vám úplně jiný pohled, hlavně na východní části ostrova. Měl jsem možnost jet po východním pobřeží do Hualienu (pro Čechy známé hlavně kvůli padajícím hotelům) a následně jsem navštívil národní park Taroko. Výhledy a okolí byly dechberoucí. Jestli něco můžu doporučit, tak tohle. To Taiwanu můžeme jenom tiše závidět. Jenom malá rada - pokud budete kempovat, nenechávejte banán na viditelném místě - z dřívějších příspěvků už určitě víte, jaké jsou opice drzé svině.
+Na to, jak jsem psal už dřív, jak je Taipei plná smogu a modrou oblohu uvidíte jenom po zásahu photoshopem, tak příroda mimo město je jak z jiného světa. Ono **stačí vyjet pár kilometrů za město** a naskytne se vám úplně jiný pohled, hlavně na východní části ostrova. Měl jsem možnost jet po východním pobřeží do Hualienu (pro Čechy známé hlavně kvůli padajícím hotelům) a následně jsem navštívil národní park Taroko. Výhledy a okolí byly dechberoucí. Jestli něco můžu doporučit, tak tohle. To Taiwanu můžeme jenom tiše závidět. Jenom malá rada - pokud budete kempovat, nenechávejte banán na viditelném místě - z dřívějších příspěvků už určitě víte, jaké jsou opice drzé svině.
 
 <figure align="middle">
   <a href="{{ site.baseurl }}/images/vseznalek2/02.JPG" data-lightbox="Cesta do Hualienu" data-title="Cesta do Hualienu" data-lightbox="roadtrip">
@@ -96,9 +96,9 @@ Na to, jak jsem psal už dřív, jak je Taipei plná smogu a modrou oblohu uvid�
 
   * Taipei 101 mění barvy svého osvětlení podle dnů v týdnu
   * Sirky v obchodě je docela težké sehnat (zapalovač mají ale všude)
-  * Měsíc nevypadá stejně jako v Evropě (dorůstá z jiné strany)
+  * **Měsíc nevypadá stejně jako v Evropě (dorůstá z jiné strany)**
   * Něco napoprvé odmítnout se bere jako slušnost, a proto se vás zeptají ještě několikrát (horší je, když nabídku opravdu nechcete přijmout)
-  * V 7-eleven si můžete vytisknout vlastní pohled za 6 NTD (nejde ve Family Martu) a poslat do Česka za 12 NTD
+  * **V 7-eleven si můžete vytisknout vlastní pohled za 6 NTD (nejde ve Family Martu) a poslat do Česka za 12 NTD**
   * Fronty se tvoří, protože kde je fronta, tam musí být něco dobrého - většinou tedy vznikají náhodně
   * Na ranní zápasy se šváby v koupelně si zvyknete a ten tajemný zvuk v pokoji je od malé ještěrky
   * Ve vlaku jedoucím na letiště máte obrazovku s letadly, která už odletěla (asi abyste kdyžtak už nespěchali)
@@ -180,7 +180,7 @@ Na to, jak jsem psal už dřív, jak je Taipei plná smogu a modrou oblohu uvid�
 </figure>
 
 
- A to by bylo prozatím vše. Děkuji
+ A to by bylo prozatím vše. **Děkuji**
 
 
 
