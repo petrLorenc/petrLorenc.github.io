@@ -19,7 +19,7 @@ I am currently in Taipei, moving back to Prague at the end of this month. I will
 - reading books and listening to podcasts
 - improving my managing/planning skills and generating ideas for my startup
 
-I will keep this page updated. (Current version from 10.6.2018)
+I will keep this page updated. (Current version is from 10.6.2018)
 
 
 
