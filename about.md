@@ -36,3 +36,7 @@ My bachelor thesis was the Android application for the [university web](https://
 ### Contact me
 
 [petr.lorenc.ml@gmail.com](mailto:petr.lorenc.ml@gmail.com)
+
+### Now
+
+My <a href="/now">now page</a>.
