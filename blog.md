@@ -1,5 +1,6 @@
 ---
 layout: page
+author: Petr Lorenc
 permalink: /blog/
 ---
 

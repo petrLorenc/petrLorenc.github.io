@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About
+description: Page with information about me
+author: Petr Lorenc
 permalink: /about/
 ---
 
