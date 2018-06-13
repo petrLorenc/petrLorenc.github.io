@@ -14,7 +14,7 @@ Po pohovoru, zkoušce a hromadě starostí jsem se stal Taiwanským studentem. J
 
 Proč Taiwan? Původní plán zněl jasně: Japonsko. Jenže když jsem si udělal představu o cenách, jaké tám vládnou a když ve škole zjistili, jakou angličtinou vládnu já, nabídli mi moji třetí volbu, Taiwan. A já ji přijal.
 
-<figure class="inage">
+<figure class="image">
 	<img src="{{ site.baseurl }}/images/Taiwan/01.JPG" alt="Typická ulice s množstvím světel a skůtrů" title="ulice v Taipei"/>
 </figure>
 
@@ -22,19 +22,19 @@ Proč Taiwan? Původní plán zněl jasně: Japonsko. Jenže když jsem si uděl
 
 Historie mě ale nezastrašila (možná to bylo tím, že jsem ji prostudoval až s letenkami v kapse a s protilátkami proti žloutence a břišnímu tyfu v krvi) a vyrazil jsem. Moje první rada pro příjezd na jeden semestr zní – na letišti tvrďte, že jste turista a že se zde zdržíte méně než 90 dní. Za ušetřené peníze si pak kupte letenku do okolních států (tj. opravdu v rámci těch 90 dnů vycestujte). Ja doporučuji Malajsii a nebo Okinawu (ta je ale docela drahá). Ale o tom snad příště.
 
-<figure class="inage">
+<figure class="image">
 	<img src="{{ site.baseurl }}/images/Taiwan/02.JPG" alt="8-má nejvyšší budova" title="Taipei 101"/> 
 </figure>
 
 Druhá rada – aby bylo vše korektní, musíte do systému ČVUT nahrát několik dokumentů. Většinou se jedná o formality a slouží jako podklady k získání studijního stipendia, které činí asi 10 000 za měsíc, tj. zhruba 40 000 za semestr. To vám stačí tak akorát na letenku a ubytování na koleji. Pro život zahrnující jídlo a pití potřebujete jiné zdroje. Což není zas až tak zlé, takové náklady jsou v Taipei srovnatelné s Prahou. Pouze pokud běžně většina vašich příjmů padne na alkohol a party, může vás těšit, že tady ušetříte, a to hned ze dvou důvodů. Zaprvé proto, že alkoholických nápojů je v Taipei jako šafránu a zadruhé proto, že i to málo je dost drahé, takže vás nejspíš přejde chuť. 
 
-<figure class="inage">
+<figure class="image">
 	<img src="{{ site.baseurl }}/images/Taiwan/03.JPG" alt="Mají rádí světla, všude" title="Hrad ze světel"/> 
 </figure>
 
 Teď trochu k univerzitě. Jméno univerzity, sídlící v samém srdci Taipeie, je NTUT (National Taipei University of Technology). Škola je pro anglicky studujícího člověka se zaměřením na IT/programování vyloženě špatná volba – to je můj názor, i když většina ostatních studentů, kterých jsem se ptal, to vnímá podobně. Lepší volbou jsou univerzity NTUST a NTU. Celková kvalita školy je tristní a kromě sporadické výuky člověka nutí dělat i jiné nesmyslné činnosti (jako třeba psát si blog, pročež vznikl tento pilotní příspěvěk). Jinak by mírný workoholik jako já zešílel. Někteří učitelé odmítají mluvit anglicky, i když by podle sylabu měli; další to sice zkouší, ale bohužel to spíš než angličtinu připomína dávící se kočku. Nakonec se ale můj rozvrh (po vcelku smutném prvním týdnu plném hledání) ustálil na:
 
-<figure class="inage">
+<figure class="image">
 	<img src="{{ site.baseurl }}/images/Taiwan/04.JPG" alt="Mají rádí kulturu, všude" title="Jezírko s ostrůvkem u jednoho chrámu"/> 
 </figure>
 
@@ -44,7 +44,7 @@ Teď trochu k univerzitě. Jméno univerzity, sídlící v samém srdci Taipeie,
 
 Že nevidíte žádné kurzy o programování? To proto, že tady v angličtině žádné nejsou! Ale ono je to vlastně nakonec dobře. I beztoho si programování v životě užiju až až, nehledě na to, že začínám psát diplomovou práci (ehm, začínám už skoro 8 měsíců, když počítám ty neustálé změny v zadání a pokusy, které nikam nevedly), kde programování bude a je také hojně využíváno.
 
-<figure class="inage">
+<figure class="image">
 	<img src="{{ site.baseurl }}/images/Taiwan/05.JPG" alt="Mají rádí sport, všude" title="Běžecká trať před naší kolejí"/> 
 </figure>
 

@@ -7,7 +7,7 @@ comments: true
 **<a href="https://www.amazon.com/Entrepreneurs-Playbook-Strategies-Techniques-Successful/dp/0814438172">The Entrepreneur's Playbook: More than 100 Proven Strategies, Tips, and Techniques to Build a Radically Successful Business</a>
 by Leonard C. Green.**
 
-<figure class="inage" align="middle">
+<figure class="image" align="middle">
   <a href="https://images-na.ssl-images-amazon.com/images/I/81k1Pex2rpL.jpg" data-lightbox="Cover of book" data-title="Cover of book" data-lightbox="roadtrip">
     <img src="https://images-na.ssl-images-amazon.com/images/I/81k1Pex2rpL.jpg" alt="Cover of book" title="Cover of book"/>
     <figcaption>Cover of book</figcaption>
@@ -33,7 +33,7 @@ by Leonard C. Green.**
  * Do **SWOT** from time to time
    * Can be applied to several areas
 
-<figure class="inage" align="middle">
+<figure class="image" align="middle">
   <a href="https://wordstream-files-prod.s3.amazonaws.com/s3fs-public/styles/simple_image/public/images/swot-analysis-header1.png?zxEdkup9fLrd0sw51dXrl5N4GUDC0ovG&itok=DBCeVBGl" data-lightbox="SWOT" data-title="SWOT" data-lightbox="roadtrip">
     <img src="https://wordstream-files-prod.s3.amazonaws.com/s3fs-public/styles/simple_image/public/images/swot-analysis-header1.png?zxEdkup9fLrd0sw51dXrl5N4GUDC0ovG&itok=DBCeVBGl" alt="SWOT" title="SWOT"/>
     <figcaption>SWOT</figcaption>
@@ -66,7 +66,7 @@ What I found interesting is the way how you can explore present market. People u
 I would also like to point out the **Maslow's hierarchy**. The lower the more fundamental need. So, for example if something is missing in one level and something else in the level below, you will naturally try to satisfy the need placed lower in the hierarchy. Knowing this can be very helpful in forming and shaping teams. Build good environment from the bottom layers (or try to help your employees with filling that needs).
 
 
-<figure class="inage" align="middle">
+<figure class="image" align="middle">
   <a href="https://www.researchgate.net/profile/Krzysztof_Piech/publication/308530946/figure/fig15/AS:409828104130561@1474722042201/Diagram-of-Maslows-hierarchy-of-needs.png" data-lightbox="Maslow's Hierarchy" data-title="Maslow's Hierarchy" data-lightbox="roadtrip">
     <img src="https://www.researchgate.net/profile/Krzysztof_Piech/publication/308530946/figure/fig15/AS:409828104130561@1474722042201/Diagram-of-Maslows-hierarchy-of-needs.png" alt="Maslow's Hierarchy" title="Maslow's Hierarchy"/>
     <figcaption>Maslow's Hierarchy</figcaption>

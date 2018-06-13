@@ -7,7 +7,7 @@ comments: true
 <a href="https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow">Homo Deus: A Brief History of Tomorrow</a>
 by Israeli author Yuval Noah Harari, professor at the Hebrew University in Jerusalem.
 
-<figure class="inage" align="middle">
+<figure class="image" align="middle">
   <a href="https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310">
     <img src="{{ site.baseurl }}/images/Homo_deus/02.jpg" alt="Cover of book" title="Cover of book"/>
     <figcaption>Cover of book</figcaption>
@@ -43,7 +43,7 @@ by Israeli author Yuval Noah Harari, professor at the Hebrew University in Jerus
 
 **"What would happen to society, politics and daily life when non-conscious but highly intelligent algorithms knew us better than we know ourselves?"**
 
-<figure class="inage" align="middle">
+<figure class="image" align="middle">
   <a href="{{ site.baseurl }}/images/Homo_deus/01.jpeg" data-lightbox="What do you think?" data-title="What do you think?">
     <img src="{{ site.baseurl }}/images/Homo_deus/01.jpeg" alt="What do you think?" title="What do you think?"/>
     <figcaption>What do you think?</figcaption>
