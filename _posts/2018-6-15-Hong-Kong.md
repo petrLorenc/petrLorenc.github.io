@@ -107,8 +107,8 @@ Laser show byla docela zklamání, ale zase lepší než drátem do oka. Vyzdvih
 </figure>
 
 <figure class="image" align="middle">
-  <a href="{{ site.baseurl }}/images/hongkong/11.JPG" data-lightbox="A nechceš aspoň kobilky? Výživné" data-title="A nechceš aspoň kobilky? Výživné" data-lightbox="roadtrip">
-    <img src="{{ site.baseurl }}/images/hongkong/11.JPG" alt="A nechceš aspoň kobilky? Výživné" title="A nechceš aspoň kobilky? Výživné"/>
+  <a href="{{ site.baseurl }}/images/hongkong/12.JPG" data-lightbox="A nechceš aspoň kobilky? Výživné" data-title="A nechceš aspoň kobilky? Výživné" data-lightbox="roadtrip">
+    <img src="{{ site.baseurl }}/images/hongkong/12.JPG" alt="A nechceš aspoň kobilky? Výživné" title="A nechceš aspoň kobilky? Výživné"/>
     <figcaption>A nechceš aspoň kobilky? Výživné</figcaption>
   </a>
 </figure>
