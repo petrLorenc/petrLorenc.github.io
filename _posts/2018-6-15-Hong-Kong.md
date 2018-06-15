@@ -27,21 +27,21 @@ To je také jediný způsob, jak v záplavě budov spatřit oblohu. I tak ale ne
 <figure class="image" align="middle">
   <a href="{{ site.baseurl }}/images/hongkong/02.JPG" data-lightbox="Viktoria Peak za dne" data-title="Viktoria Peak za dne" data-lightbox="roadtrip">
     <img src="{{ site.baseurl }}/images/hongkong/02.JPG" alt="Viktoria Peak za dne" title="Viktoria Peak za dne"/>
-    <figcaption>Viktoria Peak **za dne**</figcaption>
+    <figcaption>Viktoria Peak za dne</figcaption>
   </a>
 </figure>
 
 <figure class="image" align="middle">
   <a href="{{ site.baseurl }}/images/hongkong/03.JPG" data-lightbox="Viktoria Peak v noci" data-title="Viktoria Peak v noci" data-lightbox="roadtrip">
     <img src="{{ site.baseurl }}/images/hongkong/03.JPG" alt="Viktoria Peak v noci" title="Viktoria Peak v noci"/>
-    <figcaption>Viktoria Peak **v noci**</figcaption>
+    <figcaption>Viktoria Peak v noci</figcaption>
   </a>
 </figure>
 
 <figure class="image" align="middle">
   <a href="{{ site.baseurl }}/images/hongkong/04.JPG" data-lightbox="Mě připomíná zpěvačku Pink, co Vám?" data-title="Mě připomíná zpěvačku Pink, co Vám?" data-lightbox="roadtrip">
     <img src="{{ site.baseurl }}/images/hongkong/04.JPG" alt="Mě připomíná zpěvačku Pink, co Vám?" title="Mě připomíná zpěvačku Pink, co Vám?"/>
-    <figcaption>Mě připomíná zpěvačku **Pink**, co Vám?</figcaption>
+    <figcaption>Mě připomíná zpěvačku Pink, co Vám?</figcaption>
   </a>
 </figure>
 
@@ -77,7 +77,7 @@ Jedná se o budovu (či spíše komplex budov), která snad musela hostit všech
 <figure class="image" align="middle">
   <a href="{{ site.baseurl }}/images/hongkong/07.JPG" data-lightbox="Výstavu jídla bych čekal v Severní Korei" data-title="Výstavu jídla bych čekal v Severní Korei" data-lightbox="roadtrip">
     <img src="{{ site.baseurl }}/images/hongkong/07.JPG" alt="Výstavu jídla bych čekal v Severní Korei" title="Výstavu jídla bych čekal v Severní Korei"/>
-    <figcaption>Výstavu jídla bych čekal v **Severní Korei**</figcaption>
+    <figcaption>Výstavu jídla bych čekal v Severní Korei</figcaption>
   </a>
 </figure>
 
