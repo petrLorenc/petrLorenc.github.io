@@ -93,8 +93,8 @@ Jedná se o budovu (či spíše komplex budov), která snad musela hostit všech
 Laser show byla docela zklamání, ale zase lepší než drátem do oka. Vyzdvihnout bych chtěl ovšem muzea, která pro studenty nabízí vstup zdarma (nebo skoro zdarma) a výhled z Victoria Peak (kam jsem se tedy dopravil za zlomek ceny autobusem místo lanovkou - výhledy během cesty byly i tak velmi pěkné a dovolily mi spatřit i **jižní část ostrova**). Dále bych doporučil cestovat mezi centrem a ostrovem lodí, zaprvé proto, že to je loď a zadruhé proto, že překvapivě vyjde **levněji než metro**. Vyplatí se vždy, když máte dostatek času a nepotřebujete jet metrem dále do centra.
 
 <figure class="image" align="middle">
-  <a href="{{ site.baseurl }}/images/hongkong/10.JPG" data-lightbox="Druhá strana Viktoria Peak" data-title="Druhá strana Viktoria Peak" data-lightbox="roadtrip">
-    <img src="{{ site.baseurl }}/images/hongkong/10.JPG" alt="Druhá strana Viktoria Peak" title="Druhá strana Viktoria Peak"/>
+  <a href="{{ site.baseurl }}/images/hongkong/09.JPG" data-lightbox="Druhá strana Viktoria Peak" data-title="Druhá strana Viktoria Peak" data-lightbox="roadtrip">
+    <img src="{{ site.baseurl }}/images/hongkong/09.JPG" alt="Druhá strana Viktoria Peak" title="Druhá strana Viktoria Peak"/>
     <figcaption>Druhá strana Viktoria Peak</figcaption>
   </a>
 </figure>
