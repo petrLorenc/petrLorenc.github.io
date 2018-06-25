@@ -20,6 +20,10 @@ Tak a je to tady... konec mého výměnného semestru na NTUT (Taiwan). **Pro da
 
 Čísla znamenají dobu a čas vyučování. Předem upozorňuji, že je to výhradně můj zkreslený názor na předměty, který byl silně ovlivněn očekáváním, které jsem do studia zde vkládal. Bohužel jsem očekával, že kurzy budou náročné a že mi rozšíří obzory ve **finančním a business managementu**. Ale jak už to tak u exchange programů bývá - neni to o studiu (to jsem si bohužel neuvědomil před začátkem - moje chyba).
 
+    1: 08:10 - 09:00  2: 09:10 - 10:00  3: 10:10 - 11:00  4: 11:10 - 12:00  　
+    5: 13:10 - 14:00  6: 14:10 - 15:00  7: 15:10 - 16:00  8: 16:10 - 17:00  9: 17:10 - 18:00
+    A: 18:30 - 19:20  B: 19:20 - 20:10  C: 20:20 - 21:10  D: 21:10 - 22:00
+
 <figure class="image" align="middle">
   <a href="{{ site.baseurl }}/images/taipei_tech/01.jpg" data-lightbox="National Taipei University of Technology logo" data-title="National Taipei University of Technology logo" data-lightbox="roadtrip">
     <img src="{{ site.baseurl }}/images/taipei_tech/01.jpg" alt="National Taipei University of Technology logo" title="National Taipei University of Technology logo"/>
