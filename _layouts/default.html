@@ -21,12 +21,19 @@
   </head>
 
   <body>
-    <div class="wrapper-masthead">
-        <header class="top-container">
-          <h1><a href="{{ site.baseurl }}/"><b>{{ site.name }}</b></a></h1>
-          <h2><a href="{{ site.baseurl }}/blog">{{ site.description }}</a></h2>
-          <h2><a href="{{ site.baseurl }}/about"><b>About ME</b></a></h2>
-        </header>
+    <div class="header-container">
+      <header class="container">
+          <div class="branding">
+            <h1>{{ site.name }}</h1>
+          </div>
+          <nav>
+            <ul>
+                <li><a href="{{ site.baseurl }}/">Intro page</a></li>
+                <li><a href="{{ site.baseurl }}/blog">Blog</a></li>
+                <li><a href="{{ site.baseurl }}/about">About ME</a></li>
+            </ul>
+          </nav>
+      </header>
     </div>
 
     <div id="main" role="main" class="container">
