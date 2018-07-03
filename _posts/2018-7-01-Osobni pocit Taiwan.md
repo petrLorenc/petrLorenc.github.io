@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Všeználek si stěžuje na Taiwan III. (CZ)
+title:  Osobní rozvoj na Taiwanu (CZ)
 description: Toto je poslední část z trilogie "Všeználek". Můj pobyt na Taiwanu se nezadržitelně chýlí ke konci a tak si poté, zase po čase, budu moci stěžovat jenom na Prahu a Česko. Na následujících pár řádcích shrnu postřehy, které se mi tu podařilo nasbírat. Tento příspěvek bude více osobní.
 author: Petr Lorenc
 comments: true
