@@ -105,7 +105,7 @@ Mají tu opravdu slunečné a teplé počasí. Pro Evropana zvyklého na sníh v
 </figure>
 
 
-## <a href="/Osobni_pocit_taiwan>"Osobní část</a>
+## <a href="/Osobni-pocit-Taiwan/">**Osobní část - LINK**</a>
 
 ## Střípky
 
