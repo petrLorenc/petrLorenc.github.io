@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Duševní rozvoj na Taiwanu (CZ)
-description: Toto je doplňková část k trilogii "Všeználek". Je více o mých osobbích pocitech a duševním rozvoji.
+description: Toto je doplňková část k trilogii "Všeználek". Je více o mých osobních pocitech a duševním rozvoji.
 author: Petr Lorenc
 comments: true
 ---
