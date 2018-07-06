@@ -12,7 +12,9 @@ Nejenom školou živ je člověk, a tak jsem vyrazil na výlet do Malajsie. Př�
 
 Níže vidíte mapu všeho, co jsem v Kuala Lumpuru navštívil. Na první pohled toho není moc, ale ani na mapu nelze jednoduše zachytit všechny zážitky, a navíc jsem tam byl jen necelé 4 dny. 
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1L-RregMPWPxi2EdyBWeduEQSJMOXdWcY" width="640" height="480"></iframe>
+<figure class="map" align="middle">
+  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1L-RregMPWPxi2EdyBWeduEQSJMOXdWcY" width="640" height="480"></iframe>
+</figure>
 
 Co tedy mapa neukáže? Trochu ironicky třeba to, kde jsme bydleli. Jel jsem s kamarády ze školy (**René** (Rakousko), **Bianca** (Rakousko), **Sandra** (Rakousko), **Severin** (Německo), **Casper** (Nizozemí) a částešně **Jeroen** (Nizozemí)), takže oni rezervovali hotel, a to hned pětihvězdičkový. K tomu se pyšní "nekonečným bazénem" a výhledem na Petronas Tower, zkrátka pohádka. Pohádka, na které jsme jako chudí studenti samozřejmě chtěli co nejvíc ušetřit. Pokoj jsme proto rezervovali přes Airbnb, čímž nám v kapse zůstala polovina peněz, které bychom jinak oficiálně museli dávat hotelu. To mělo za následek akorát jeden ústupek, a sice absence snídaně v ceně. Ovšem jít v hotelu do posilovny, která byla na stejném patře jako bazén (tj. 51.) je něco, na co budu dlouho vzpomínat.
 

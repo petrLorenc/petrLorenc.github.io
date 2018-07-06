@@ -10,7 +10,9 @@ comments: true
 
 {% include menu_taiwan.html %}
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1vKMmXoYro63YY7LITNAgwq5LFnHGIONs" width="640" height="480"></iframe>
+<figure class="map" align="middle">
+  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1vKMmXoYro63YY7LITNAgwq5LFnHGIONs" width="640" height="480"></iframe>
+</figure>
 
 
 ## Hledíme s pusou otevřenou

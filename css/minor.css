@@ -76,6 +76,9 @@ figure.image {
 	height: 60%;
 }
 
+figure.map {
+  margin: 20px;
+}
 
 /* Media Queries */
 @media(max-width: 768px){
