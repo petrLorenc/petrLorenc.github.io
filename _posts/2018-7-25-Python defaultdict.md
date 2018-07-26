@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Python: Custom defaultdict (ENG)
+title: Python - Custom defaultdict (ENG)
 description: Show you a way how to implement general custom class with defaultdict which you can nested together to create very useful structures.
 author: Petr Lorenc
 comments: true
