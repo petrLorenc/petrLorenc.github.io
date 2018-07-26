@@ -39,7 +39,7 @@ class BaseCounter(object):
 
 class DictCounter(object):
   def __init__(self, dict_class):
-    self._counter = defaultdict(lambda: dict_class)
+    self._counter = defaultdict(dict_class)
 
   def increment(self, key, value, *args, **kwargs):
     print (key, value, args, kwargs)
