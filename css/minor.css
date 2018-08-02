@@ -81,7 +81,7 @@ figure.map {
 }
 
 /* Media Queries */
-@media(max-width: 768px){
+@media(max-width: 860px){
   header > .branding,
   header nav,
   header nav li{
@@ -92,5 +92,23 @@ figure.map {
 
   header{
     padding-bottom:20px;
+  }
+
+  .container {
+    width: 90%;
+    padding-bottom: 10px;
+  }
+}
+
+/* Landscape phones and down */
+@media (max-width: 480px) { 
+  header nav li{
+    float: left;
+    display: block;
+    padding: 0 20px 10px 20px;
+  }
+
+  .container {
+    width: 90%;
   }
 }
