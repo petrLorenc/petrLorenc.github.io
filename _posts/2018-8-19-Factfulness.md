@@ -10,7 +10,7 @@ A review of a book <a href="https://www.amazon.com/Factfulness-Reasons-World-Thi
 
 
 <figure class="image" align="middle">
-  <a href="{{ site.baseurl }}/images/books/factfulness.jpg" data-lightbox="Factfulness: Ten Reasons We’re Wrong About the World – and Why Things Are Better Than You Think" data-title="Factfulness: Ten Reasons We’re Wrong About the World – and Why Things Are Better Than You Think" data-lightbox="roadtrip">
+  <a href="{{ site.baseurl }}/images/Books/factfulness.jpg" data-lightbox="Factfulness: Ten Reasons We’re Wrong About the World – and Why Things Are Better Than You Think" data-title="Factfulness: Ten Reasons We’re Wrong About the World – and Why Things Are Better Than You Think" data-lightbox="roadtrip">
     <img src="{{ site.baseurl }}/images/books/factfulness.jpg" alt="Factfulness: Ten Reasons We’re Wrong About the World – and Why Things Are Better Than You Think" title="Factfulness: Ten Reasons We’re Wrong About the World – and Why Things Are Better Than You Think"/>
     <figcaption>Factfulness: Ten Reasons We’re Wrong About the World – and Why Things Are Better Than You Think</figcaption>
   </a>
@@ -39,7 +39,7 @@ I would strongly recommend taking a look at this <a href="https://www.news.com.a
 
 <figure class="image" align="middle">
   <a href="https://www.youtube.com/watch?v=5uooRe07mYM">
-    <img src="{{ site.baseurl }}/images/books/factfulness2.jpg" alt="Bill Gates recommendation" title="Bill Gates recommendation"/>
+    <img src="{{ site.baseurl }}/images/Books/factfulness2.jpg" alt="Bill Gates recommendation" title="Bill Gates recommendation"/>
     <figcaption>Bill Gates recommendation</figcaption>
   </a>
 </figure>
@@ -52,7 +52,7 @@ If that is not enough, please spent at least few minutes on a TED Talk given by 
 
 <figure class="image" align="middle">
   <a href="https://www.youtube.com/watch?v=Sm5xF-UYgdg">
-    <img src="{{ site.baseurl }}/images/books/factfulness3.jpg" alt="Hans and Ola Rosling" title="Hans and Ola Rosling"/>
+    <img src="{{ site.baseurl }}/images/Books/factfulness3.jpg" alt="Hans and Ola Rosling" title="Hans and Ola Rosling"/>
     <figcaption>Hans and Ola Rosling</figcaption>
   </a>
 </figure>
