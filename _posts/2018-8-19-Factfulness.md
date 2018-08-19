@@ -11,7 +11,7 @@ A review of a book <a href="https://www.amazon.com/Factfulness-Reasons-World-Thi
 
 <figure class="image" align="middle">
   <a href="{{ site.baseurl }}/images/Books/factfulness.jpg" data-lightbox="Factfulness: Ten Reasons We’re Wrong About the World – and Why Things Are Better Than You Think" data-title="Factfulness: Ten Reasons We’re Wrong About the World – and Why Things Are Better Than You Think" data-lightbox="roadtrip">
-    <img src="{{ site.baseurl }}/images/books/factfulness.jpg" alt="Factfulness: Ten Reasons We’re Wrong About the World – and Why Things Are Better Than You Think" title="Factfulness: Ten Reasons We’re Wrong About the World – and Why Things Are Better Than You Think"/>
+    <img src="{{ site.baseurl }}/images/Books/factfulness.jpg" alt="Factfulness: Ten Reasons We’re Wrong About the World – and Why Things Are Better Than You Think" title="Factfulness: Ten Reasons We’re Wrong About the World – and Why Things Are Better Than You Think"/>
     <figcaption>Factfulness: Ten Reasons We’re Wrong About the World – and Why Things Are Better Than You Think</figcaption>
   </a>
 </figure>
