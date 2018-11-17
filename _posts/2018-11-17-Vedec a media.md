@@ -15,17 +15,20 @@ Hlavní myšlenky, které se mě podařily zaznamenat:
   * Nechat se nahrávat a nejlépe se nahrávat taky
     * Občas se originální nahrávka ztratí a potom je Vaše záloha velmi důležitá
   
+
   * Reakce na pitomé otázky
     * Odpovědět ale přitom se snažit zavést téma na něco přínosnějšího
     * "K tomuto tématu nemám kompetence se vyjadřovat, ale ... kterým se zabývám ve své práci je důležitý z těchto hledisek ..."
     * **Nepoužívat hypotetické situace a spekulace** - slušně se omluvit a říct, že více v současné situaci k danému tématu říci nemohu
   
+
   * Snažit se o stručné odpovědi
     * Ale ne moc stručné: "Ano, Ne, Možná, V příštím století ..."
     * **Aspoň 2-3 věty**
     * **Pokud to nezjednodušíte vy, tak to udělá novinář. To nechcete**, protože on se tomu tématu většinou začal věnovat ten den ráno. (Proto se snažit nepoužívat cizí a odborné termíny)
       * Nedávat složité odpovědi
       * Používat české termíny
+
 
   * Průměrná reportáž má stopáž **100 vteřin** a když odečteme věci okolo (uvedení apod.) dostaneme **80 vteřin**
     * 8 vteřin průměrná doba odpovědi
