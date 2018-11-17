@@ -6,7 +6,7 @@ author: Petr Lorenc
 comments: true
 ---
 
-Seminář s názvem **Vědec a média** byl určen pro vědecké pracovníky **CIIRC** a **ČVUT** a kladl si za cíl seznámit vědce s možností propagace své práce a určitou popularizaci jejich činnosti. Celý program trval kolem 4-5 hodin a byl rozdělen do několik částí (přednáška, rozbor nahraného rozhovoru a diskuze)
+Seminář s názvem **Vědec a média** byl určen vědeckým a akademických pracovníkům a doktorandům všech fakult **ČVUT** a **CIIRC**. Kladl si za cíl seznámit vědce s možností propagace své práce a určitou popularizaci jejich činnosti. Celý program trval kolem 4-5 hodin a byl rozdělen do několik částí (přednáška, rozbor nahraného rozhovoru a diskuze).
 
 Hlavní myšlenky, které se mě podařily zaznamenat:
 
