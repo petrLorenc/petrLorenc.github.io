@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Preparation to Final Exams (Master)
+title: Preparation for Final Exams (Master)
 description: Materials which I was using during preparation for the final exams
 author: Petr Lorenc
 comments: true
