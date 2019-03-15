@@ -25,7 +25,7 @@ This page is inspired by Thomas Frank and his <a href="https://collegeinfogeek.c
  * find a (preferably remote) job
  **spend atleast 3 months** outside of the Czech Republic
    * visit Thailand, Vietnam and Sicily
- * reading books and listening to podcasts
+ * reading books and listening to podcasts - <a href="https://docs.google.com/spreadsheets/d/1JmE8TcMCJDB0Y5l4Ygow_--zi4IRw6WR3TW9zaiAqUo/edit?usp=sharing">**Google Sheet**</a>>
    * atleast 1 book/e-book per month
    * atleast 1 <a href="https://www.blinkist.com/">Blinkist</a> audiobook per week
    * atleast 2 podcasts per week
