@@ -87,7 +87,7 @@ Poznámky ke knize **Algoritmy pro život od Briana Christiana a Toma Griffithse
 
   * Používání zpětné vazby v řeči (slova jako "hmm", "aha"), které zároveň nepřeruší mluvčího, se anglicky nazývá <a href="https://en.wikipedia.org/wiki/Backchannel_(linguistics)">**backchannel**</a> a lze to připodobnit k posilání paketů na internetu o tom, že spojení stále trvá. Tento způsob konfirmace pozornosti **je velice důležitý jak pro mluvčího, tak pro servery.**
 
-## Citáty
+## Citáty 
 
   * **Užijte is odpoledne. S sebou si ho nevezmete.**
     * Annie Dillardová
