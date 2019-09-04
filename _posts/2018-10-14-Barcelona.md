@@ -8,6 +8,8 @@ comments: true
 
 Po objevování části východní Asie jsem se rozhodl podívat i do **sluncem vyhřáté Barcelony**. Po **3 dnech a 110 000 kroků** si konečně můžu postěžovat i na toto pěkné španělské město, které nabízí nejen architektonické orgie.
 
+{% include menu_travel.html %}
+
 <figure class="map" align="middle">
   <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UPAFR_gZ4Moovjv9UpZ33W-kF-qjwgAZ" width="640" height="480"></iframe>
 </figure>
