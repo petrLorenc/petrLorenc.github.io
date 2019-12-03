@@ -53,7 +53,7 @@ This page is inspired by Thomas Frank and his <a href="https://collegeinfogeek.c
    * Android (**Kotlin**) - **partly DONE**
  * writing this blog about me
  * find a (preferably remote) job - **POSTPONE**
- **spend atleast 3 months** outside of the Czech Republic
+ * **spend atleast 3 months** outside of the Czech Republic
    * visit Thailand, Vietnam and Sicily - **partly DONE - visiting France, USA**
  * reading books and listening to podcasts - <a href="https://docs.google.com/spreadsheets/d/1JmE8TcMCJDB0Y5l4Ygow_--zi4IRw6WR3TW9zaiAqUo/edit?usp=sharing">**Google Sheet**</a>>
    * atleast 1 book/e-book per month - **DONE**
