@@ -29,10 +29,12 @@ More about my work experiences at my <a href="https://www.linkedin.com/in/petr-l
 
 ### Study
 
-* [CTU in Prague – Faculty of Information Technology (Bachelor) 2013-2016](http://fit.cvut.cz/)
+* [CTU in Prague – Faculty of Electrical Engineering (Doctorate) 2020-2024](http://fel.cvut.cz/)
 * [NTUT in Taipei - Business and Financial management (Exchange program) 2018](https://www-en.ntut.edu.tw/bin/home.php)
 * [CTU in Prague – Faculty of Information Technology (Master) 2016-2019](http://fit.cvut.cz/)
-* [CTU in Prague – Faculty of Electrical Engineering (Doctorate) 2020-2024](http://fel.cvut.cz/)
+* [CTU in Prague – Faculty of Information Technology (Bachelor) 2013-2016](http://fit.cvut.cz/)
+
+
 
 My bachelor's thesis was the Android application for the [**university web**](https://ssp.fit.cvut.cz/)
 
