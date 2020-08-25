@@ -6,7 +6,8 @@ author: Petr Lorenc
 comments: true
 ---
 
-  Gamification is the use of game elements and game design techniques in non-game contexts.
+Gamification is the use of game elements and game design techniques in non-game contexts.
+
 
   * **Gamification is about learning, learning from game design but also learning from fields like psychology and management and marketing and economics**
   * **Gamification is not turning everything into a game.**
