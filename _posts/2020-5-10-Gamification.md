@@ -6,9 +6,10 @@ author: Petr Lorenc
 comments: true
 ---
 
-  * Gamification is the use of game elements and game design techniques in non-game contexts.
-  	* **Gamification is about learning, learning from game design but also learning from fields like psychology and management and marketing and economics**
-  	* **Gamification is not turning everything into a game.**
+  Gamification is the use of game elements and game design techniques in non-game contexts.
+
+  * **Gamification is about learning, learning from game design but also learning from fields like psychology and management and marketing and economics**
+  * **Gamification is not turning everything into a game.**
   * The first time that gamification was used in something like the current sense was 2003. When Nick Pelling, a British developer and a designer, set up a consulting firm called <a href="http://www.nanodome.com/conundra.co.uk/">Conundra</a>, which was there to promote gamification of consumer products.
   * Game theory has a deep relationship to games and therefore to Gamification,. But it's something different. **Game theory is a set of algorithms and formulas and quantitative techniques for analyzing strategic decision making.**
   * Speed monitors only provides some feedback, seeing real time feedback causes a behavior loop, it causes people to react.
