@@ -5,7 +5,7 @@ permalink: /blog_ml/
 ---
 
 <div class="posts">
-  {% for post in site.posts_ml %}
+  {% for post in site.postsml %}
     <article class="post">
 
       <h1><a class="title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
