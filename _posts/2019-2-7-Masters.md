@@ -2,6 +2,7 @@
 layout: post
 title: Master's thesis
 comments: true
+tag: machine learning
 ---
 
 This master’s thesis aims to find the best algorithm for semantic understanding of natural dialogs. **The result can be used in a conversation AI**. A part of the thesis is also a dataset, based on needs for a chatbot application for open-domain and which was based on real conversations. The thesis also identifies and examines sequential machine learning algorithms for intent and entity recognition. The result of the thesis is a detailed comparison of the selected algorithms regarding accuracy, memory requirements and computational complexity. Based on the results, **a new model which joins intent and entity recognition together is created**.

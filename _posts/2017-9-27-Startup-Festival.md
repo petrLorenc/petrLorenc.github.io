@@ -2,6 +2,7 @@
 layout: post
 title: Startup festival 2017 (Prague)
 comments: true
+tag: machine learning
 ---
 
 The <a href="http://www.startupfestival.cz/">Startup festival 2017 (Prague)</a> is a small event which is organized by students of University of Economics in Prague. The amount of shown startup wasn't huge, but in this post I will focus on two workshops which were a part of additional program and I found interesting in some way.

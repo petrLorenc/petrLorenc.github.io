@@ -4,6 +4,7 @@ title: Python - Custom defaultdict (ENG)
 description: Show you a way how to implement general custom class with defaultdict which you can nested together to create very useful structures.
 author: Petr Lorenc
 comments: true
+tag: machine learning
 ---
 
 I want to show you a way how to implement general custom class with defaultdict which you can nested together to create very useful structures.

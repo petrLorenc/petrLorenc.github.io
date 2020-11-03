@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Natural Language Processing Part 1 
+tag: machine learning
 ---
 
 My current research is about NLP with Czech text - I would like to use this interesting topic to be my diploma thesis, so I also decided to create this series to make accessible this interesting topic to everyone. In this series of post I would like to show some pitfalls which I have to encounter with. I will try to make as general as possible (it means that I won't be focused on Czech text but on text in general).

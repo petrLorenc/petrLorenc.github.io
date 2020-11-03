@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dimension in the neural network
+tag: machine learning
 ---
 I would like to write some posts about neural networks. This one is first and we will focus on the dimensionality. It is a basic principle in the neural network (to have the right dimension in matrix/vector multiplication).
 

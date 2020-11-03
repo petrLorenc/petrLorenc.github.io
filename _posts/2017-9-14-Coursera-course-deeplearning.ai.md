@@ -2,6 +2,7 @@
 layout: post
 title: Neural Networks and Deep Learning - deeplearning.ai
 comments: true
+tag: machine learning
 ---
 
 I just finished Neural Networks and Deep Learning course (first part) created by deeplearning.ai on the <a href="https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome">Coursera</a>. I would like to write a little bit about my experience with it and also provide a little review.

@@ -4,6 +4,7 @@ title: Preparation for Final Exams (Master)
 description: Materials which I was using during preparation for the final exams
 author: Petr Lorenc
 comments: true
+tag: machine learning
 ---
 
 Materials which I was using during preparation for the final exams:

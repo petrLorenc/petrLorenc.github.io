@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Overview about Recommendation systems
+tag: machine learning
 ---
 
 On the Internet is a lot of data (films/books/items/email). Almost nobody like to rummaging through the vast amount of things to find an interesting book or an unseen film, which I will like. For this purpose there is a huge development in recommendation systems. In this post I would like to provide a quick overview about this interesting topic.

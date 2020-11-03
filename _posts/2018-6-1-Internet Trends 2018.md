@@ -4,6 +4,7 @@ title: Internet trends 2018
 description: Summary of summary of internet trends 2018 
 author: Petr Lorenc
 comments: true
+tag: machine learning
 ---
 
 **<a href="http://www.kpcb.com/internet-trends">Internet trends 2018</a>

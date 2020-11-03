@@ -4,6 +4,7 @@ title: Gamification course on Coursera
 description: Gamification course on Coursera
 author: Petr Lorenc
 comments: true
+tag: machine learning
 ---
 
 Gamification is the use of game elements and game design techniques in non-game contexts.

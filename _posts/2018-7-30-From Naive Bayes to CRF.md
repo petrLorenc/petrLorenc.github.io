@@ -4,6 +4,7 @@ title: Generative and discriminative models (ENG)
 description: First attempt to summarize very broad topic of generative and discriminative models. I will be glad for every suggestion or discussion over this topic. I am sorry for math formulas but I wasn't able to make it work yet.
 author: Petr Lorenc
 comments: true
+tag: machine learning
 ---
 
 First attempt to summarize very broad topic of generative and discriminative models. I will be glad for every suggestion or discussion over this topic.

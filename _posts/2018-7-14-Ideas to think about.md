@@ -4,6 +4,7 @@ title: Thoughts and advices (ENG)
 description: Several thoughts and advices which I have been collecting. There is no right answer so you can just think about it by yourself.
 author: Petr Lorenc
 comments: true
+tag: machine learning
 ---
 
 Several thoughts and advices which I have been collecting since my journey to Taipei. There is no right answer, so you can just think about it by yourself and maybe change your behavior (I am also trying to do it as well). My plan is to make more posts like this.

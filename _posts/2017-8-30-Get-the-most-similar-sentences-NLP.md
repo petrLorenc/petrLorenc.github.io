@@ -1,6 +1,7 @@
 ---
 layout: post
 title: NLP - Get the most semantically similar texts
+tag: machine learning
 ---
 
 There are two types of data - with and without labels. In this post I will focus on the unlabeled text, which should simulate <a href="http://www.cs.cornell.edu/~cristian//Cornell_Movie-Dialogs_Corpus.html">human dialog</a> or <a href="https://www.cs.cmu.edu/~./enron/">an email communication</a>. There is a lot of stuff you can do with these texts, one of them is <a href="https://en.wikipedia.org/wiki/Cluster_analysis">clustering</a>.

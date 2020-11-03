@@ -2,6 +2,7 @@
 layout: post
 title: Smart Reply - Overview of the paper
 comments: true
+tag: machine learning
 ---
 
 When you use Google <a href="https://allo.google.com/">Allo</a> or <a href="https://www.blog.google/products/gmail/computer-respond-to-this-email/">GMail</a> on your mobile device, you have to see suggestion which the app provides when you receive a short message.

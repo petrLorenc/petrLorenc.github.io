@@ -4,6 +4,7 @@ title: Marketing notes
 description: 
 author: Petr Lorenc
 comments: true
+tag: machine learning
 ---
 
 # Marketing

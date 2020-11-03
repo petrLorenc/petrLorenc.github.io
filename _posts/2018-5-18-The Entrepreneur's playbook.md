@@ -2,6 +2,7 @@
 layout: post
 title: The Entrepreneur's Playbook
 comments: true
+tag: machine learning
 ---
 
 **<a href="https://www.amazon.com/Entrepreneurs-Playbook-Strategies-Techniques-Successful/dp/0814438172">The Entrepreneur's Playbook: More than 100 Proven Strategies, Tips, and Techniques to Build a Radically Successful Business</a>

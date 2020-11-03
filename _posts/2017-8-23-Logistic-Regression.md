@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My intuitive explanation of Logistic Regression!
+tag: machine learning
 ---
 
 

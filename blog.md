@@ -6,19 +6,21 @@ permalink: /blog/
 
 <div class="posts">
   {% for post in site.posts %}
-    <article class="post">
+    {% if post.tag != "machine learning" %}
+      <article class="post">
 
-      <h1><a class="title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+        <h1><a class="title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      <div class="date">
-	    Written on {{ post.date | date: "%B %e, %Y" }}
-	  </div>
-
-      <div class="entry">
-        {{ post.excerpt }}
+        <div class="date">
+        Written on {{ post.date | date: "%B %e, %Y" }}
       </div>
-      
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
+
+        <div class="entry">
+          {{ post.excerpt }}
+        </div>
+        
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      </article>
+    {% endif %}
   {% endfor %}
 </div>
