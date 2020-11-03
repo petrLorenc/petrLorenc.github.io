@@ -5,7 +5,7 @@ permalink: /blog_ml/
 ---
 
 <div class="posts">
-  {% for post in site.postsml %}
+  {% for post in site.posts %}
     {% if post.tag == "machine learning" %}
       <article class="post">
 
