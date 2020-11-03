@@ -1,11 +1,11 @@
 ---
 layout: page
 author: Petr Lorenc
-permalink: /blog_tr/
+permalink: /blog/
 ---
 
 <div class="posts">
-  {% for post in site.poststr %}
+  {% for post in site.posts %}
     <article class="post">
 
       <h1><a class="title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
