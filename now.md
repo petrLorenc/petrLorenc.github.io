@@ -11,34 +11,66 @@ This page is inspired by Thomas Frank and his <a href="https://collegeinfogeek.c
 
 --
 
-# Current version (3.12.2019)
+# Current version (4.12.2020)
  * health
    * **exercising** 
      * 5x150kg deadlift
      * 10km under 50 mins
-     * 15 pull-ups in a row
+     * 20 pull-ups in a row
    * cooking by myself
  * learning
-   * begin with my doctorate
-   * **Kotlin** and Java
-   * how and where to invest
+   * doctorate - publish research papers about OOD
+   * **Kotlin** + CD/CI + Testing
+   * keep investing - look for other possibilities
+      * look at other platforms then eToro or <a href="https://www.mintos.com/cs/l/ref/JOT8P1">Mintos</a>
+      * mortage - 2021/2022
  * work/job
    * writing this blog about me
-   * get an internship/study abroad - **spend atleast 2 months** outside of the Czech Republic
+   * building portfolio
+   * get an PhD internship/study abroad - **spend atleast 2 months** abroad
    * reading books and listening to podcasts
  * travel
-   * visit **Morocco, Sicily, Israel, Georgia, Balkan/Ukraine/Moldova, Canada, Singapore, Thailand, XX-stan, Vietnam (the order means priority)**
-   * **summer hiking/sleeping in the tent**
+   * visit **Sicily, Israel, Georgia, Balkan/Ukraine/Moldova, Canada, Singapore, Thailand, XX-stan, Vietnam**
+   * continue **hiking/sleeping in the tent**
+      * 3 nights in a row
  * **social**
-   * atleast one meetup/presentation per 2 weeks
+   * meets friends atleast one time per 2 months (online/offline)
+   * improve relatioship with closest one
+      * be more positive, less demanding for attention
+ * **biohacking**
+   * mindfulness/meditation - once per 2 days
+   * try effect of different food and suplements
+   * improve sleep
+ * volunteering (conference) out of CZ
+
+# Past version (3.12.2019)
+ * health
+   * **exercising** 
+     * 5x150kg deadlift - **PARTLY DONE - 4x140kg**
+     * 10km under 50 mins - **DONE**
+     * 15 pull-ups in a row - **PARTLY DONE - 12**
+   * cooking by myself - **IN PROGRESS**
+ * learning
+   * begin with my doctorate - **DONE**
+   * **Kotlin** and Java - **IN PROGRESS**
+   * how and where to invest - **DONE eToro+Mintos**
+ * work/job
+   * writing this blog about me - **IN PROGRESS**
+   * get an internship/study abroad - **spend atleast 2 months** outside of the Czech Republic - **CORONA FAIL**
+   * reading books and listening to podcasts - **IN PROGRESS**
+ * travel
+   * visit **Morocco, Sicily, Israel, Georgia, Balkan/Ukraine/Moldova, Canada, Singapore, Thailand, XX-stan, Vietnam (the order means priority)** - **DONE Morocco**
+   * **summer hiking/sleeping in the tent** - **DONE**
+ * **social**
+   * atleast one meetup/presentation per 2 weeks - **CORONA FAIL**
    * atleast one meeting where I can meet "my future wife" per month
  * out of scope
-   * **biohacking**
-      * mindfulness/meditation - try it again
-      * try effect of different food and suplements
-   * choose some charity and send them money/items
-   * volunteering (conference) out of CZ
- * **BE MORE POSITIVE**
+   * **biohacking** - **IN PROGRESS**
+      * mindfulness/meditation - try it again - **PARTLY FAIL**
+      * try effect of different food and suplements - **DONE**
+   * choose some charity and send them money/items - **FAIL**
+   * volunteering (conference) out of CZ - **CORONA FAIL**
+ * **BE MORE POSITIVE** - **IN PROGRESS**
 
 
 # Past version (26.2.2019)
