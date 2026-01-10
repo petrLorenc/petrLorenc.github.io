@@ -10,38 +10,53 @@ permaling: /now/
 This page is inspired by Thomas Frank and his <a href="https://collegeinfogeek.com/now/">**NOW LIST**</a>, where he summarize his goals and focus for certain moment. There is also nice <a href="https://nownownow.com/about">**explanantion**</a> of purpose for "NOW page".
 
 --
+# Current version (10.1.2026)
+* exercise 3 times a week (gym, running, walking)
+* read a book per month
+* listen to podcasts
+* travel
+  * Thailand (2 cities) - visit
+  * Japan (3 cities) - work
+  * South Korea - visit
+  * Taiwan - visit
+  * New Zeland - work
+  * China - visit
+  * XX-stan - work
+* invest 60% of income to long-term, invest 15% in education/travel
+* try to do mentoring
 
-# Current version (4.12.2020)
+
+# Past version (4.12.2020)
  * health
    * **exercising** 
-     * 5x150kg deadlift
-     * 10km under 50 mins
-     * 20 pull-ups in a row
-   * cooking by myself
+     * 5x150kg deadlift - **partly DONE 3x140kg**
+     * 10km under 50 mins - **not DONE**
+     * 20 pull-ups in a row - **partly DONE - 10**
+   * cooking by myself - **DONE**
  * learning
-   * doctorate - publish research papers about OOD
-   * **Kotlin** + CD/CI + Testing
-   * keep investing - look for other possibilities
+   * doctorate - publish research papers about OOD - **not DONE**
+   * **Kotlin** + CD/CI + Testing - - **not DONE**
+   * keep investing - look for other possibilities - **DONE**
       * look at other platforms then eToro or <a href="https://www.mintos.com/cs/l/ref/JOT8P1">Mintos</a>
-      * mortage - 2021/2022
+      * mortage - 2021/2022 - **DONE in 2024**
  * work/job
    * writing this blog about me
    * building portfolio
-   * get an PhD internship/study abroad - **spend atleast 2 months** abroad
-   * reading books and listening to podcasts
+   * get an PhD internship/study abroad - **spend atleast 2 months** abroad - **DONE (Spain, Germany)**
+   * reading books and listening to podcasts - **DONE**
  * travel
-   * visit **Sicily, Israel, Georgia, Balkan/Ukraine/Moldova, Canada, Singapore, Thailand, XX-stan, Vietnam**
+   * visit **Sicily, Israel, Georgia, Balkan/Ukraine/Moldova, Canada, Singapore, Thailand, XX-stan, Vietnam** - **partly DONE** - Sicily, Georgia, Balkan, Uzbekistan
    * continue **hiking/sleeping in the tent**
-      * 3 nights in a row
+      * 3 nights in a row - **partly DONE**
  * **social**
-   * meets friends atleast one time per 2 months (online/offline)
+   * meets friends atleast one time per 2 months (online/offline) - **not DONE**
    * improve relatioship with closest one
       * be more positive, less demanding for attention
  * **biohacking**
    * mindfulness/meditation - once per 2 days
    * try effect of different food and suplements
    * improve sleep
- * volunteering (conference) out of CZ
+ * volunteering (conference) out of CZ - **not DONE**
 
 # Past version (3.12.2019)
  * health
