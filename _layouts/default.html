@@ -56,6 +56,14 @@
           if (dropbtn) {
             dropbtn.addEventListener('click', function(e) {
               e.preventDefault();
+              e.stopPropagation();
+              // Close other dropdowns
+              dropdowns.forEach(function(d) {
+                if (d !== dropdown) {
+                  d.classList.remove('active');
+                }
+              });
+              // Toggle current dropdown
               dropdown.classList.toggle('active');
             });
           }
