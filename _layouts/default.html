@@ -47,6 +47,30 @@
       src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
     </script>
     <script src="{{ site.baseurl }}/js/lightbox-plus-jquery.min.js"></script>
+    <script>
+      // Make dropdown work on click for mobile/touch devices
+      document.addEventListener('DOMContentLoaded', function() {
+        var dropdowns = document.querySelectorAll('.dropdown');
+        dropdowns.forEach(function(dropdown) {
+          var dropbtn = dropdown.querySelector('.dropbtn');
+          if (dropbtn) {
+            dropbtn.addEventListener('click', function(e) {
+              e.preventDefault();
+              dropdown.classList.toggle('active');
+            });
+          }
+        });
+        
+        // Close dropdown when clicking outside
+        document.addEventListener('click', function(e) {
+          if (!e.target.closest('.dropdown')) {
+            dropdowns.forEach(function(dropdown) {
+              dropdown.classList.remove('active');
+            });
+          }
+        });
+      });
+    </script>
     {% include analytics.html %}
 
   </body>
