@@ -283,6 +283,54 @@ footer {
   text-align: center;
 }
 
+// Category Submenu Styles
+.category-submenu {
+  background-color: $lightGray;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  padding: 10px 0;
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 5px;
+    
+    @include mobile {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+  
+  li {
+    margin: 0;
+    
+    a {
+      display: block;
+      padding: 8px 16px;
+      color: $darkGray;
+      text-decoration: none;
+      border-radius: 3px;
+      transition: background-color 0.2s ease, color 0.2s ease;
+      font-weight: 300;
+      
+      &:hover {
+        background-color: darken($lightGray, 10%);
+        color: $darkerGray;
+      }
+      
+      &.active {
+        background-color: $blue;
+        color: $white;
+        font-weight: bold;
+      }
+    }
+  }
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
