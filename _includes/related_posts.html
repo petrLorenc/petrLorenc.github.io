@@ -1,0 +1,24 @@
+<!-- Related Posts in Same Category -->
+{% if page.category %}
+  {% assign related_posts = site.posts | where: "category", page.category | where_exp: "post", "post.url != page.url" %}
+  
+  {% if related_posts.size > 0 %}
+    <div class="related-posts">
+      <h3>More from {{ page.category | replace: '_', ' ' | capitalize }}</h3>
+      <ul>
+        {% for post in related_posts limit:10 %}
+          <li>
+            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            <span class="post-date">{{ post.date | date: "%B %Y" }}</span>
+          </li>
+        {% endfor %}
+      </ul>
+      
+      {% if related_posts.size > 10 %}
+        <p class="view-all">
+          <a href="{{ site.baseurl }}/{{ page.category }}/">View all {{ page.category | replace: '_', ' ' }} posts →</a>
+        </p>
+      {% endif %}
+    </div>
+  {% endif %}
+{% endif %}

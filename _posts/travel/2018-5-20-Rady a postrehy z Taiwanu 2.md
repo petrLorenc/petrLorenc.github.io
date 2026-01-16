@@ -10,7 +10,6 @@ category: travel
 
 Na následujících pár řádcích shrnu postřehy, které se mi tu zatím podařilo nasbírat. Níže odkazy na předchozí příspěvky, pokud jste ještě neviděli, doporučuji aspoň zběžně prohlédnout.
 
-{% include menu_taiwan.html %}
 
 Minulý příspěvek byl spíše negativní, dnes se pokusím na Taiwan podívat i z té světlé stránky (té bez smogu).
 

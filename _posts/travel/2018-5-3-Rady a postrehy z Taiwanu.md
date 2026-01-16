@@ -10,7 +10,6 @@ category: travel
 
 Na následujících pár řádcích shrnu postřehy z prvních dvou měsíců, které jsem tu zatím prožil. Níže odkazy na předchozí příspěvky, pokud jste ještě neviděli doporučuji aspoň prohlédnout.
 
-{% include menu_taiwan.html %}
 
 Chtěl bych se omluvit za kvalitu některých fotek níže. Moje stařičká Motorola už nestačí dnešním standardům (jestli teda někdy stačila) ...
 

@@ -10,7 +10,6 @@ category: travel
 
 Tak a je to tady... konec mého výměnného semestru na NTUT (Taiwan). **Pro další generace** bych chtěl zanechat nějaké doporučení, co se týče školy. O životě na Taiwanu a cestování si můžete přečíst na odkazech níže.
 
-{% include menu_taiwan.html %}
 
 ## Můj rozvrh
 

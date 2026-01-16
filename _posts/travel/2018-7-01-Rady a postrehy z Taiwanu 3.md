@@ -10,7 +10,6 @@ category: travel
 
 Toto je poslední část z trilogie "Všeználek". Můj pobyt na Taiwanu se nezadržitelně chýlí ke konci a tak si zanedlouho, zase po čase, budu moci stěžovat jenom na Prahu a Česko. Na následujících pár řádcích shrnu postřehy, které se mi tu podařilo nasbírat. Tento příspěvek bude mít dvě části (více osobní a druhou spíše zaobalující můj pobyt zde). Níže odkazy na předchozí příspěvky, pokud jste ještě neviděli, doporučuji aspoň zběžně prohlédnout.
 
-{% include menu_taiwan.html %}
 
 ## Další výlet do historie Taiwanu
 

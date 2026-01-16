@@ -10,7 +10,6 @@ category: travel
 
 Toto je doplňková část k trilogii "Všeználek". Je více o mých osobbích pocitech a duševním rozvoji. Níže odkazy na předchozí příspěvky, pokud jste ještě neviděli, doporučuji aspoň zběžně prohlédnout.
 
-{% include menu_taiwan.html %}
 
 ## Nový přátelé z celého světa
 

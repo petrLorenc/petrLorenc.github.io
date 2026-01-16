@@ -10,7 +10,6 @@ category: travel
 
 **Hong Kong** mi dopřál zajímavý a rozporuplnný žážitek. Všechno začalo tím, že mě hostitelka přes AirBnB ve 3 hodiny ráno napsala, že se mnou vybraný byt mění a že jestli s tím nesouhlasím, ať zrušim rezervaci. Poté to pokračovalo ubytováním v **Chungking Mansions** (dům trochu jako z indického hororu), až jsme se dostali k večerní Laser show, která vypadala o poznání hůře, než běžné osvětlení většiny kasín z Macaa. Ukončil bych to ale konstatováním, že **výhled z Victoria Peak** byl parádní a ani průměrná výška budov kolem 30 pater mi nezabránila v prozkoumávání okolí z téměř ptačí perspektivy.
 
-{% include menu_taiwan.html %}
 
 <figure class="map" align="middle">
   <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1vKMmXoYro63YY7LITNAgwq5LFnHGIONs" width="640" height="480"></iframe>
