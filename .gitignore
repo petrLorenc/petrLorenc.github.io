@@ -12,3 +12,5 @@ package.json
 _site/
 .sass-cache/
 .jekyll-metadata
+astro-blog
+AGENTS.md

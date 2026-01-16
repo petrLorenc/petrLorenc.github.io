@@ -1,0 +1,17 @@
+<!-- Dynamic Navigation Menu -->
+<nav class="main-navigation">
+  <ul>
+    <li><a href="{{ site.baseurl }}/" {% if page.url == "/" %}class="active"{% endif %}>Home</a></li>
+    <li class="dropdown">
+      <a href="#" class="dropbtn">Categories ▾</a>
+      <div class="dropdown-content">
+        <a href="{{ site.baseurl }}/machine_learning/">Machine Learning</a>
+        <a href="{{ site.baseurl }}/software_engineering/">Software Engineering</a>
+        <a href="{{ site.baseurl }}/travel/">Travel</a>
+        <a href="{{ site.baseurl }}/books/">Books</a>
+      </div>
+    </li>
+    <li><a href="{{ site.baseurl }}/about" {% if page.url == "/about/" %}class="active"{% endif %}>About Me</a></li>
+    <li><a href="https://petr.budaktivni.cz/en" target="_blank">New Personal Pages</a></li>
+  </ul>
+</nav>

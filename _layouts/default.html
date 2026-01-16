@@ -12,6 +12,7 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/style.css" />
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/syntax.css" />
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/minor.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/navigation.css">
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/lightbox.min.css">
 
@@ -26,15 +27,7 @@
           <div class="branding">
             <h1>{{ site.name }}</h1>
           </div>
-          <nav>
-            <ul>
-                <li><a href="{{ site.baseurl }}/">Intro</a></li>
-                <li><a href="{{ site.baseurl }}/blog_ml">Professional</a></li>
-                <li><a href="{{ site.baseurl }}/blog">Entertainment</a></li>
-                <li><a href="{{ site.baseurl }}/about">About Me</a></li>
-                <li><a href="https://petr.budaktivni.cz/en">NEW Personal Pages</a></li>
-            </ul>
-          </nav>
+          {% include navigation.html %}
       </header>
     </div>
 

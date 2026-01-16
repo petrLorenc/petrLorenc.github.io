@@ -1,0 +1,171 @@
+/* Navigation Styles */
+.main-navigation ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.main-navigation > ul > li {
+  float: left;
+  position: relative;
+}
+
+.main-navigation a {
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+
+.main-navigation a:hover,
+.main-navigation a.active {
+  color: #000000;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Dropdown Menu */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropbtn {
+  cursor: pointer;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #2c7a9e;
+  min-width: 200px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  border-top: 3px solid #e8491d;
+}
+
+.dropdown-content a {
+  color: #ffffff;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+  text-transform: none;
+  font-size: 14px;
+}
+
+.dropdown-content a:hover {
+  background-color: #1a5c7a;
+  color: #ffffff;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Category Submenu */
+.category-submenu {
+  background-color: #f4f4f4;
+  border-bottom: 2px solid #ddd;
+  margin-bottom: 30px;
+}
+
+.category-submenu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.category-submenu li {
+  display: inline-block;
+  margin: 0;
+}
+
+.category-submenu a {
+  display: block;
+  color: #348CB2;
+  text-align: center;
+  padding: 12px 20px;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.category-submenu a:hover,
+.category-submenu a.active {
+  background-color: #348CB2;
+  color: #ffffff;
+}
+
+/* Category Header */
+.category-header {
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #e8491d;
+}
+
+.category-header h1 {
+  margin-bottom: 10px;
+  color: #348CB2;
+}
+
+.category-description {
+  font-size: 16px;
+  color: #666;
+  font-style: italic;
+}
+
+.no-posts {
+  text-align: center;
+  padding: 40px 20px;
+  color: #999;
+  font-style: italic;
+}
+
+/* Responsive Design */
+@media (max-width: 860px) {
+  .main-navigation > ul > li {
+    float: none;
+    display: block;
+  }
+  
+  .dropdown-content {
+    position: relative;
+    box-shadow: none;
+    background-color: #2c7a9e;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .category-submenu li {
+    display: block;
+  }
+  
+  .category-submenu a {
+    padding: 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  .main-navigation a {
+    padding: 10px 15px;
+    font-size: 14px;
+  }
+  
+  .dropdown-content a {
+    font-size: 13px;
+    padding: 10px 12px;
+  }
+  
+  .category-submenu a {
+    padding: 8px 10px;
+    font-size: 12px;
+  }
+}
