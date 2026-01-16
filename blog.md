@@ -4,8 +4,6 @@ author: Petr Lorenc
 permalink: /blog/
 ---
 
-{% include category_submenu.html %}
-
 <div class="posts">
   {% assign all_posts = site.posts | where_exp: "post", "post.category != 'machine_learning'" %}
   {% for post in all_posts %}

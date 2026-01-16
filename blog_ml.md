@@ -4,8 +4,6 @@ author: Petr Lorenc
 permalink: /blog_ml/
 ---
 
-{% include category_submenu.html %}
-
 <div class="posts">
   {% assign ml_posts = site.posts | where: "category", "machine_learning" %}
   {% for post in ml_posts %}
